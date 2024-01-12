@@ -1,0 +1,19 @@
+
+ Submission of Inputs for the Global Digital Compact 
+ Global Digital Justice Forum
+Goals
+1. To update the human rights framework to accommodate a new class of data rights and ensure accountability from state and non-state actors for enforcing these rights.
+2. To bring the multilateral system up to speed on human rights and data governance.
+Actions-Multilateral System
+1. Adopt a binding consensus to enforce corporate accountability for preventing hate speech and incitement to discrimination, hostility and violence in platform environments, including algorithmic content moderation and curation.
+2. Issue guidance on what constitutes sexist hate speech and technology-facilitated gender-based violence through a Convention on the Elimination of All Forms of Discrimination against Women (CEDAW) Committee General Recommendation.
+3. Build a data rights constitutionalism that defines new typologies of rights at the intersection of digitalization/ datafication and traditional human rights discourse. This, inter alia, will include the right to data access, the right to explanation, the right to be forgotten, the right to be represented (or not) in digital systems, the right to participate in decisions about data innovations, protection against all forms of data discrimination including unfair denial of citizen entitlements, and workers' data rights in algorithmic workplaces.
+4. Explicitly acknowledge the sovereign right of peoples to govern their data resources towards the progressive realization of ESCR, and as an extension of state parties' right and duty towards development of its people.
+a. The UN Convention on the Right to Development being negotiated under the auspices of the Human Rights Council (HRC) must recognize the breach of people's data sovereignty as a violation of their right to development.
+b. The policy frameworks related to trade, intellectual property, taxation, and international development in areas such as health and food systems must be fit to address the inequity of data and AI infrastructur al power, and enable the furtherance of open and flourishing digital futures.
+5. Mobilize public financing and introduce a new taxation regime to enable developing countries to participate equally in the international digital order.
+Actions-Governments
+1. Adopt a national data constitutionalism rooted in human rights to guide all sectors of the economy and society.
+2. Introduce content governance frameworks, including human rights-based benchmarking of harmful content that takes into account contextual and intersectional manifestations of hate speech, and establishes corporate accountability to protect digital human rights.
+3. Invest in digital policy development and public infrastructures to maximize and democratize data capabilities and innovation.
+ 10

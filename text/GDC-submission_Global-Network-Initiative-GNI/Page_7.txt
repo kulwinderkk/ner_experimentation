@@ -1,0 +1,12 @@
+
+· Data localization measures can pose privacy risks when paired with disproportionate authorities for governments to access user data stored in a country. By creating single points of failure and targets for attacks, they can also increase cybersecurity risks.
+· Opaque, arbitrary government surveillance practices can contribute further to Internet fragmentation, creating mistrust and limiting access to cross-border mechanisms.
+Commitments
+For Companies
+· In line with the guidance from the GNI framework, companies should continue to take steps to avoid, mitigate, or otherwise address potential adverse human rights impacts from laws, policies, and government demands that are likely to reinforce Internet fragmentation.
+· This includes multistakeholder advocacy to encourage governments and international institutions to adopt policies and practices that are consistent with and advance the GNI Principles.
+For Governments
+· Governments must refrain from the use of state-sponsored internet shutdowns and disruptions, and support multilateral engagement, including via the Freedom Online Coalition, to curb their use and mitigate their impacts.
+· Governments should commit to preserving the free flow of data across borders where appropriate safeguards exist to address potential cybersecurity or human rights risks.
+· When seeking to address concerns about digital content and conduct, in line with the guidance in the CRPB, governments should target interventions to services and situations that generate significant risk of harm. This means carefully considering the types of services, at which layers in the ecosystem, that are appropriately positioned to address the specific concerns at issue, recognizing the consequences of such interventions may differ significantly from one type of service to another.
+ 1325 G St. NW, Suite 500, Washington, DC 20005 • GlobalNetworkInitiative.org • info@GlobalNetworkInitiative.org 7

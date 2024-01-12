@@ -1,0 +1,10 @@
+
+$_{●}$ Whether governments are deploying AI-enabled technology directly, or requiring or incentivizing its use by other actors, it is critical that they continue to ensure that the development, design, and deployment of such technology is conducted transparency, informed by stakeholder input, and governed by adequate transparency and accountability. Without sufficient and appropriate governance frameworks that allow for independent scrutiny, risk identification and mitigation, public awareness and education, individual choice/ability to opt-out, and appropriate remedy, public trust will be undermined and the potential benefits of AI-enabled technologies will be jeopardized.
+$_{●}$ Governments must take a more active role in developing safeguards, such as robust transparency, accountability, and oversight mechanisms, regarding the use of AI-enabled technologies for law enforcement and surveillance purposes. This includes particular attention to the privacy and data protection risks associated with the collection of biometric data.
+$_{●}$ Governments seeking to regulate AI should ground such efforts in international human rights law, which provide an important baseline from which to analyze risks and opportunities effectively, to define key safeguards and proportionate approaches, and to help ensure that myriad efforts at national, regional, and international levels to regulate AI are in sync.
+For Companies
+$_{●}$ Companies must ensure that their development and use of AI-enabled technology, including the sale of such technologies, is consistent with their responsibility to respect human rights, including the right to privacy. GNI's multistakeholder framework offers a model for the ICT sector to ensure respect for privacy and freedom of expression in their products, services, and operations, including those utilizing AI.
+$_{●}$ As detailed in the data protection section below, companies must employ protections with respect to personal information in all countries where they operate.
+For All stakeholders
+10
+ 1325 G St. NW, Suite 500, Washington, DC 20005 • GlobalNetworkInitiative.org • info@GlobalNetworkInitiative.org

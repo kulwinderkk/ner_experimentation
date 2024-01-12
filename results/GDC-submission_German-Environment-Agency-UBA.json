@@ -1,0 +1,905 @@
+{
+    "_name": "GDC-submission_German-Environment-Agency-UBA.pdf",
+    "_type": "pdf-document",
+    "bitmaps": [],
+    "description": {
+        "logs": [
+            {
+                "agent": "CCS",
+                "type": "parsing",
+                "comment": "CCS v9.3.0 parsing of documents",
+                "date": "2024-01-01T19:29:30.304910+00:00"
+            }
+        ]
+    },
+    "equations": [],
+    "figures": [
+        {
+            "bounding-box": {
+                "max": [
+                    204.77884,
+                    684.93634,
+                    595.32001,
+                    841.92004
+                ],
+                "min": [
+                    442.8699340820312,
+                    772.6380004882812,
+                    554.2208862304688,
+                    813.262939453125
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.838599443435669,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        442.8699340820312,
+                        772.6380004882812,
+                        554.2208862304688,
+                        813.262939453125
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        }
+    ],
+    "file-info": {
+        "#-pages": 4,
+        "document-hash": "91a270250b35e0ac7888ff192d259b47d0805359ba10b50205ffc350e9f33794",
+        "filename": "GDC-submission_German-Environment-Agency-UBA.pdf",
+        "page-hashes": [
+            {
+                "hash": "bbf4dc842733bc8a1bd6475b40db2dc4c9c4154d51c6607968f8ec27d76ffc7a",
+                "model": "model",
+                "page": 1
+            },
+            {
+                "hash": "5de50e44908ead956fff574876ac1c0004f1e00608132944dc1c4904dd43a22e",
+                "model": "model",
+                "page": 2
+            },
+            {
+                "hash": "65904ff35ce8ef8c32ee8bd2c90eea3535e7fb75d089f05a3f8e5c98f7336af0",
+                "model": "model",
+                "page": 3
+            },
+            {
+                "hash": "3d78fc62f75e3f9ca9862932075ac342107d170d65233a1a09b42ad10bcff8ab",
+                "model": "model",
+                "page": 4
+            }
+        ],
+        "filename-prov": "00000.zip",
+        "description": {}
+    },
+    "footnotes": [],
+    "main-text": [
+        {
+            "name": "page-header",
+            "type": "page-header",
+            "$ref": "#/page-headers/0"
+        },
+        {
+            "name": "page-header",
+            "type": "page-header",
+            "$ref": "#/page-headers/1"
+        },
+        {
+            "text": "GERMAN ENVIRONMENT AGENCY SUBMISSION TO THE GDC",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        69.7591552734375,
+                        662.470703125,
+                        524.8055419921875,
+                        684.9363403320312
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        48
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "A.PROCESS OF PREPARATION",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        88.2414321899414,
+                        591.8203125,
+                        314.5661315917969,
+                        613.7802734375
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        25
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "As we continue to advance in the digital age, it's critical to analyse how digitalisation impacts the environment. At the German Environment Agency (UBA), our goal is to make digitalisation environmentally friendly, and to foster digital and socio-technical solutions towards sustainability.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.02045440673828,
+                        497.4605407714844,
+                        526.8755493164062,
+                        569.20849609375
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        291
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "That's why UBA serves as a dedicated Co-Champion of the Coalition for Digital Environmental Sustainability (CODES), a global alliance working for a Sustainable Planet in the Digital Age. CODES was mandated by the UN Envoy on Technology to address the nexus between digital transformation and environmental sustainability as part of the follow-up process to the UN Secretary General's Roadmap for Digital Cooperation.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.87051391601562,
+                        390.195556640625,
+                        526.9025268554688,
+                        481.8484802246094
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        416
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "This submission expresses the view of UBA in its capacity as a co-champion of CODES. We fully endorse the submission made by CODES, align with the proposed principles and propose some additional actions in this submission. Any views expressed are the views of the UBA and may not in any circumstances be regarded as stating an official position of the Federal Republic of Germany.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.8623275756836,
+                        283.56146240234375,
+                        526.8902587890625,
+                        375.16845703125
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        381
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "B. CORE PRINCIPLES",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        88.91871643066406,
+                        241.8912353515625,
+                        240.76634216308594,
+                        263.8511962890625
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        19
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Digitalisation is not an end to it itself. Therefore, it is essential that the Global Digital Compact and its goals for the digital transformation are proactively aligned with the 2030 Agenda for Sustainable Development to ensure the protection of human dignity, global prosperity, and a healthy planet in the digital age. This requires an UN-based risk assessment approach of the digital transformation and its impacts on people and planet-only a systematic built-up of global capacities, competencies, standards, and governance frameworks allows us to address negative digital impacts that still too often act as powerful accelerators of unsustainable trends. The global community must prioritize making digitalisation more sustainable, inclusive, and equitable as",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.80687713623047,
+                        70.204345703125,
+                        526.9141845703125,
+                        219.2884521484375
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        767
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/0"
+        },
+        {
+            "$ref": "#/figures/0",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "text": "part of a whole-of-society approach. The global community must redirect and incentivize investments in those socio-technical innovations that clearly contribute to achieving our common sustainability goals.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.88429260253906,
+                        718.2335815429688,
+                        526.8265380859375,
+                        771.0484619140625
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        206
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "In this line of reasoning and as a strong supporter and co-champion of the Coalition for Digital Environmental Sustainability CODES, we endorse the recommendations of CODES to the Global Digital Compact:",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.77578735351562,
+                        650.6788330078125,
+                        526.8191528320312,
+                        703.0084838867188
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        203
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "1. THE 'ENABLE ALIGNMENT TO SUSTAINABLE DEVELOPMENT' PRINCIPLE-Reorient the purpose of digitalization to develop common visions, values and renewed objectives for sustainable development in the Digital Age. The global community needs to proactively shape and govern digital change as a fundamental sustainability issue of the 21st Century.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        88.40522003173828,
+                        561.6639404296875,
+                        524.1946411132812,
+                        633.8884887695312
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        339
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "3. THE 'INNOVATE WITH PURPOSE' PRINCIPLE-Ensure that all stakeholders channel large investments, capacity development and collective efforts in socio-technical innovations towards achieving our sustainable development goals. The global community needs to incentivise and steer these actions and investments across all policy levels and sustainability needs.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        87.72871398925781,
+                        436.9739990234375,
+                        525.8320922851562,
+                        507.88848876953125
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        358
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "2. THE 'MITIGATE HARM WITH SUSTAINABLE DIGITALIZATION' PRINCIPLE-Ensure that the negative environmental and social impacts of the Digital Age are mitigated. The global community needs to make digital infrastructures, products and services more sustainable, inclusive and equitable within a whole-of-society approach.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        88.17839050292969,
+                        506.2130126953125,
+                        521.7427368164062,
+                        563.8084716796875
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        317
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "C. KEY COMMITMENTS, PLEDGES, ACTIONS",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        87.67327880859375,
+                        387.4449157714844,
+                        413.92584228515625,
+                        410.3755187988281
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        37
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{We endorse the nine actions developed in the GDC submission of CODES. As a German actor at the }$",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.91876220703125,
+                        364.8960876464844,
+                        526.8466186523438,
+                        386.85601806640625
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        101
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "science-policy interface and with experience on (digital) eco-design and sustainability policies in the Digital Age, we further propose three specific actions to support each of the three principles laid out above:",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.70844268798828,
+                        293.51080322265625,
+                        526.8429565429688,
+                        361.9687805175781
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        215
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "1. Implement a ' Global Digital Sustainability Outlook' (GDSO) : Considering the rapid speed of digital transformation and its deep impacts on people, societies and our planet, we support-as overarching common action of the GDC-the institutionalization of a multi-lateral, UN-based and scientifically-driven GDSO to monitor and assess systemic risks of the digital transformation in the short-and long-term perspective on a permanent base for further decision-making.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        87.7411117553711,
+                        138.10528564453125,
+                        527.029296875,
+                        249.16845703125
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        467
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "2. Build and mainstream an ' UN Eco-design Framework for Sustainable Digital Infrastructures ': Taking into account the rapid speed and scale of digital infrastructure development in the years to come, the global community must ensure that this massive build-up is done in the most sustainable way possible. The UN and international actors",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        88.91999816894531,
+                        61.2205810546875,
+                        526.8536376953125,
+                        133.0084228515625
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        340
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "should develop a reference framework to define and mainstream knowledge and respective standards for different digital infrastructures. The framework should be binding for UN entities and guide international funding, investment decisions, and capacity development programs. To facilitate purposeful data collection and the application of the framework, a transdisciplinary 'Centre for Sustainable Digital Infrastructures' should support practical implementation.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        106.6876449584961,
+                        661.1588134765625,
+                        526.9209594726562,
+                        771.0484619140625
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        462
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "3. Set up a ' Global Innovation Mechanism for Sustainable Digital Livelihoods ': With limited resources on the one side and a clear set of sustainability goals in the 2030 Agenda we need to focus and redirect investments, guidelines and further means towards pressing sustainable development ends. A Global Innovation Mechanism would support open innovations, but deliberately steer funds, investments and regulatory support towards digital applications with a clear sustainability purpose, while encouraging the use of open source/software/AI to provide further global digital public goods for all. A Global Mechanism approach serves as an initially loose frontrunner approach of MS and other ambitious actors that should further solidify via own sets of national and international targets and timetables, capacity development programs and the creation of funds to steer digital sustainability solutions.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        88.49151611328125,
+                        446.8924865722656,
+                        526.9139404296875,
+                        655.0084838867188
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        905
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "D.COMMENTS ON GDC",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        88.63006591796875,
+                        392.5905456542969,
+                        266.68621826171875,
+                        414.6997375488281
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        18
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{Sustainability and the 2030 Agenda must become the guiding vision and mission for the entire }$",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.91876220703125,
+                        369.22027587890625,
+                        526.7987670898438,
+                        391.1802062988281
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        99
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "GDC, that is then clearly specified with a set of relevant principles and concrete actions, e.g. for most pressing issue areas like capacities, sustainable infrastructures, and solutions for climate action, circularity or biodiversity protection.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.8285140991211,
+                        298.4620361328125,
+                        526.8128662109375,
+                        366.8047180175781
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        246
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Imprint",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        69.8222885131836,
+                        755.395751953125,
+                        107.51719665527344,
+                        769.5105590820312
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        8
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Publisher",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        74.63382720947266,
+                        738.8722534179688,
+                        111.23599243164062,
+                        750.6484375
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        9
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Umweltbundesamt",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        74.17569732666016,
+                        722.77392578125,
+                        148.779052734375,
+                        734.5684204101562
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        16
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "W\u00f6rlitzer Platz 1",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        76.31999969482422,
+                        710.6279296875,
+                        138.8037109375,
+                        721.6083984375
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        19
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "06844 Dessau-Ro\u00dflau",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        74.85232543945312,
+                        696.86962890625,
+                        157.56565856933594,
+                        708.6484375
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        21
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Tel: +49 340-2103-5046",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        76.31999969482422,
+                        684.5879516601562,
+                        165.12112426757812,
+                        695.568359375
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "marcel.dorsch@uba.de",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        75.82624816894531,
+                        671.0236206054688,
+                        163.49517822265625,
+                        682.6083984375
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        21
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Internet: www.umweltbundesamt.de",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        76.31999969482422,
+                        658.66796875,
+                        215.07666015625,
+                        669.6484375
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        33
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "/umweltbundesamt.de",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        75.41709899902344,
+                        644.975341796875,
+                        169.98223876953125,
+                        656.568359375
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        20
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "/umweltbundesamt",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        77.24201202392578,
+                        631.9840087890625,
+                        158.59710693359375,
+                        643.6083984375
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        17
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Completion: Arpil/2023",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        75.58037567138672,
+                        602.904052734375,
+                        163.52554321289062,
+                        614.568359375
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        22
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/1"
+        }
+    ],
+    "page-dimensions": [
+        {
+            "height": 841.92004,
+            "page": 1,
+            "width": 595.32001
+        },
+        {
+            "height": 841.92004,
+            "page": 2,
+            "width": 595.32001
+        },
+        {
+            "height": 841.92004,
+            "page": 3,
+            "width": 595.32001
+        },
+        {
+            "height": 841.92004,
+            "page": 4,
+            "width": 595.32001
+        }
+    ],
+    "page-footers": [
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        294.7702026367188,
+                        30.25811767578125,
+                        302.85535,
+                        44.110596
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        3
+                    ]
+                }
+            ],
+            "text": " 1 ",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        294.1144714355469,
+                        35.19091796875,
+                        302.85535,
+                        49.03064
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        3
+                    ]
+                }
+            ],
+            "text": " 4 ",
+            "type": "page-footer"
+        }
+    ],
+    "page-headers": [
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        69.83184814453125,
+                        754.5445556640625,
+                        204.77884,
+                        768.79053
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        27
+                    ]
+                }
+            ],
+            "text": " German Environment Agency ",
+            "type": "page-header"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        70.05973815917969,
+                        733.5962524414062,
+                        129.6443,
+                        746.7644
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "text": " 28. April 2023 ",
+            "type": "page-header"
+        }
+    ],
+    "references": [],
+    "tables": [],
+    "conversion_settings": {
+        "model_pipeline": {
+            "clusters": [
+                {
+                    "type": "LayoutSegmentationModel",
+                    "name": "LayoutSegmentationModel",
+                    "version": "NA"
+                }
+            ],
+            "page": [],
+            "normalization": [],
+            "tables": [
+                {
+                    "type": "TableStructureModel",
+                    "name": "TableStructureModel",
+                    "version": "NA"
+                }
+            ]
+        }
+    },
+    "version": 2
+}

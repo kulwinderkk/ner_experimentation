@@ -1,0 +1,20 @@
+
+ Submission of Inputs for the Global Digital Compact 
+ Global Digital Justice Forum
+Principles
+1. Privacy and personal data protection frameworks must effectively address the erosion of individual, collective and societal autonomy arising from a) non-consensual data collection, b) individual and group profiling, c) recombination, third party sharing, and downstream processing of anonymized personal data.
+2. The digital economy must be effectively regulated to prevent enclosure of the social commons of data resources and allowing powerful actor to capture the benefits accruing from it.
+3. The protection of data must include the sovereign right of peoples and communities to own, control, generate value, and benefit from their data resources.
+Goals
+1. To evolve appropriate international and national frameworks to protect people's right to privacy and data sovereignty.
+2. To ensure that the creation of digital public goods/infrastructures at the global and national levels is backed by robust safeguards to protect privacy and personal data, enhance autonomy, and promote equitable benefit sharing.
+3. To ensure that laws and policies for data governance maximize social benefit and curtail market tendencies for concentration and exploitation.
+Actions-Multilateral System
+1. Institute a binding global governance framework in relation to digital human rights, which includes-
+a. No-go areas where the data market cannot operate.
+b. The right to encryption and freedom from commercial surveillance as integral components of the right to privacy.
+c. The right of communities to steward their data resources as an integral part of their Economic, Social and Cultural Rights (ESCR).
+d. Recognition of state requirements for mandatory general client-side scanning of communication as a disproportionate and intrusive violation of privacy (A/HRC/51/17 2022).
+2. Update the International Labor Organization's (ILO's) Code of Practice on Workers' Personal Data (1996) in dialogue with unions to ensure that privacy safeguards are adequate to worker autonomy in algorithmically mediated workplaces. This must address worker data rights, including the rights of unions to access all algorithms, freedom from disproportionate data surveillance, the right to explanation and appeal to challenge automated decision-making, the right of unions to engage in algorithmic audits, and obligations of employers to negotiate with unions on the introduction of surveillance tools.
+3. Mandate ex-ante human rights assessments and gender audits-with particular attention to 'do no harm by design' and 'data privacy and security principles'-in the Digital Public Good registry of the UN Digital Public Goods Alliance (DPGA).
+ 8

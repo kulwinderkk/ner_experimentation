@@ -1,0 +1,688 @@
+{
+    "_name": "Contribution to the Global Digital Compact",
+    "_type": "pdf-document",
+    "bitmaps": [],
+    "description": {
+        "title": "Contribution to the Global Digital Compact",
+        "logs": [
+            {
+                "agent": "CCS",
+                "type": "parsing",
+                "comment": "CCS v9.3.0 parsing of documents",
+                "date": "2024-01-01T19:29:50.374144+00:00"
+            }
+        ]
+    },
+    "equations": [],
+    "figures": [
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    738.96997,
+                    595,
+                    842
+                ],
+                "min": [
+                    47.90581893920898,
+                    770.2987060546875,
+                    181.5100555419922,
+                    817.156494140625
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.8932357430458069,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        47.90581893920898,
+                        770.2987060546875,
+                        181.5100555419922,
+                        817.156494140625
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        },
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    751.96997,
+                    523.22998,
+                    842
+                ],
+                "min": [
+                    37.53506469726562,
+                    777.593017578125,
+                    146.0091400146484,
+                    815.5816040039062
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.9134047031402588,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        37.53506469726562,
+                        777.593017578125,
+                        146.0091400146484,
+                        815.5816040039062
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        }
+    ],
+    "file-info": {
+        "#-pages": 2,
+        "document-hash": "25b31c09d22511f4b7b6be7d931fa622e4a2bd1b9926c57ca2478ab87a78df66",
+        "filename": "GDC-submission_Global-Cyber-Alliance.pdf",
+        "page-hashes": [
+            {
+                "hash": "e1fa41e87f9b1490bf1c8b8d277328826285112c3a29fb462463879efd603386",
+                "model": "model",
+                "page": 1
+            },
+            {
+                "hash": "e02fa6dce630b77c8bf46752847e072491e46bbe8a9857f075e1f5a72e5ebb3f",
+                "model": "model",
+                "page": 2
+            }
+        ],
+        "filename-prov": "00000.zip",
+        "description": {}
+    },
+    "footnotes": [],
+    "main-text": [
+        {
+            "$ref": "#/figures/0",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "text": "Contribution to the Global Digital Compact",
+            "name": "title",
+            "type": "title",
+            "prov": [
+                {
+                    "bbox": [
+                        155.5800018310547,
+                        722.969970703125,
+                        443.2959899902344,
+                        739.1129760742188
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        43
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Submission to the Thematic Area 'Digital commons as a global public good': A systematic, whole-of-society approach to digital security.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        75.5250015258789,
+                        666.9500122070312,
+                        521.9148559570312,
+                        700.7000122070312
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        136
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "For years, the international development community has put great efforts into digitalization as an opportunity to fight poverty. Like the revolutions that preceded it, the Fourth Industrial Revolution has the potential to raise global income levels and improve the quality of life for populations around the world. However, digitalization also provides a new breeding ground for organized crime. Thus, a new dimension of social vulnerability follows in the wake of the development opportunities offered by the digital revolution. In order to be sustainable, digital development must be done with a focus on digital security.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        567.8702392578125,
+                        525.2999877929688,
+                        648.2000122070312
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        624
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "As more people and devices are connected, the risks that come with cyber insecurity will only increase. While significant past efforts have improved our risk posture, viable solutions are typically only available at a high cost, thus reserved to larger companies and the wealthiest governments. Cyber is a constitutive element of our societies-its physical, economic, social, and political elements-and its security is essential to equitable and inclusive economic and social development and to the protection of human rights, yet while plenty of initiatives are available to industry, citizens are often left behind and ill-equipped to ensure their online safety. Because of its essential role, cybersecurity should be managed as a global public good.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        455.6300048828125,
+                        525.3599853515625,
+                        549.9000244140625
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        752
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "This submission calls for a whole-of-society approach to addressing the cybersecurity needs of all segments of society and leverage existing best practices, efforts, tools, and solutions to respond and mitigate against growing cybersecurity threats.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        399.6300048828125,
+                        525.1799926757812,
+                        437.6300048828125
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        249
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Core principle that all governments, civil society organizations, and other stakeholders should adhere to:",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        371.3800048828125,
+                        496.7494201660156,
+                        381.3800048828125
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        106
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Equip all segments of society with skills and affordable, action-oriented, easy-to-follow steps and easy-toimplement solutions to stay safe online.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        82.63628387451172,
+                        329.3500061035156,
+                        513.424560546875,
+                        353.3500061035156
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        147
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Key commitments to bring about these specific principles.",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        272.5799865722656,
+                        411.8340148925781,
+                        286.5799865722656
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        58
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Fund cybersecurity education programmes in schools and at the community level",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        255.79852294921875,
+                        404.4300231933594,
+                        265.8299865722656
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        78
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The young generation, despite being digital natives, does not follow cybersecurity best practices. This trend is likely to continue unless cybersecurity training begins at an early age. Cybersecurity should be a part of the regular school curriculum and supported by public-private partnerships as the private sector has a responsibility to ensure that its future customers can use its products and services safely.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        199.51837158203125,
+                        525.2599487304688,
+                        251.8300018310547
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        416
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Promote cyber tools for all Internet users.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        167.5500030517578,
+                        244.36000061035156,
+                        177.5500030517578
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        44
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Ensure that citizens and businesses, whatever their situation and sector of activity, are not only aware of cybersecurity best practices, but have access to solutions and actually adopt and implement them. To do so, solutions need to be relevant, localized, affordable, and easily accessible. Governments and non-profits offer useful toolkits around the world. Support these stakeholders, promote existing initiatives, and encourage cooperation.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        97.52999877929688,
+                        525.8444213867188,
+                        163.5500030517578
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        446
+                    ]
+                }
+            ]
+        },
+        {
+            "$ref": "#/figures/1",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "text": "What our coalition has already committed to do",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.91221618652344,
+                        741.969970703125,
+                        271.9469909667969,
+                        751.969970703125
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        46
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "In April 2022, Craig Newmark Philanthropies announced a commitment of more than $ 50 million to support a broad coalition of organizations dedicated to a Cyber Civil Defense initiative. That coalition of entities is calling for a whole-of-society response to the escalating volume and sophistication of cyber-attacks.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        701.7000122070312,
+                        525.2701416015625,
+                        739.719970703125
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        317
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "There is consensus that a whole-of-society effort is required to address the challenges that cyber insecurity poses to economic development and equity. Cybersecurity needs to be inclusive. Different groups face different issues and have specific needs and requirements with respect to cybersecurity. In a whole-of-society approach, we must ensure that all needs, including those of underserved communities around the world, are represented and addressed.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        617.4199829101562,
+                        525.4400024414062,
+                        683.4500122070312
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        454
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Education and Skills",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        71.99290466308594,
+                        587.1699829101562,
+                        152.3218536376953,
+                        597.1699829101562
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        20
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "There's no denying the world is facing a cybersecurity skills gap. The coalition is committed to provide skills building for those who are not able to participate in certification programs and focus on the 'skills to build', in addition to the current 'certification to get' approach. More efforts should be dedicated to the mutual recognition of skills. Without that, cross-border cooperation and mobility remain challenging.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        531.1500244140625,
+                        525.1500854492188,
+                        583.1699829101562
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        426
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Tools and Services",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        71.84944915771484,
+                        501.1499938964844,
+                        146.56341552734375,
+                        511.1499938964844
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        18
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "In the whole-of-society, not every entity has the tools and services it needs to fulfil its responsibilities. The coalition committed to ensure that solutions are available and work at a global scale. The Global Cyber Alliance is launching a cybersecurity taxonomy project framed as a community-based initiative to identify all cybersecurity risks in the Internet infrastructure and at the end user level. The project aims to identify all current tools and solutions that address known cyber risks and provide the basis for community collaboration to identify gaps. The project will drive community collaboration and concerted action to develop tools and solutions that address those gaps and enable communities to protect themselves from cyber-risks.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        402.84149169921875,
+                        525.4400024414062,
+                        496.8999938964844
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        751
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Awareness",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        372.6300048828125,
+                        116.39643859863281,
+                        382.6300048828125
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        9
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Building a community and working together to solve cyber insecurity is one aspect. The Global Cyber Alliance is committed to do everything possible to ensure awareness and usability of solutions, tools, and services, and meet the audiences where they are, and not expect greater expertise or commitment of resources than can reasonably be required in today's difficult environment.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.95865631103516,
+                        316.6000061035156,
+                        525.1099853515625,
+                        368.6000061035156
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        382
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Resourcing",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        71.98220825195312,
+                        286.3500061035156,
+                        117.37315368652344,
+                        296.3500061035156
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The fight against cybercrime has so far received more resources than preventive cybersecurity and resilience. The focus of funding, whether from governments, the philanthropic community, or private sector investments, will determine whether tools and solutions for infrastructure operators and all user communities, including the most vulnerable, can be made available and accessible. Non-profit organizations, even those that provide essential services for the operation of the Internet, find obtaining resources for operations quite challenging. The coalition committed to call for a sustainable funding plan for cybersecurity, one that federates the necessary resources from funding to tools and human expertise to enable people-all people-to be protected.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        188.0500030517578,
+                        525.3800659179688,
+                        282.3299865722656
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        759
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/0"
+        },
+        {
+            "name": "page-header",
+            "type": "page-header",
+            "$ref": "#/page-headers/0"
+        }
+    ],
+    "page-dimensions": [
+        {
+            "height": 842,
+            "page": 1,
+            "width": 595
+        },
+        {
+            "height": 842,
+            "page": 2,
+            "width": 595
+        }
+    ],
+    "page-footers": [
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        35.60359191894531,
+                        37.400002,
+                        71.62644958496094,
+                        45.900002
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "text": " April 2023",
+            "type": "page-footer"
+        }
+    ],
+    "page-headers": [
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        554.428955078125,
+                        790.6383056640625,
+                        561.151,
+                        799.34497
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        3
+                    ]
+                }
+            ],
+            "text": " 2 ",
+            "type": "page-header"
+        }
+    ],
+    "references": [],
+    "tables": [],
+    "conversion_settings": {
+        "model_pipeline": {
+            "clusters": [
+                {
+                    "type": "LayoutSegmentationModel",
+                    "name": "LayoutSegmentationModel",
+                    "version": "NA"
+                }
+            ],
+            "page": [],
+            "normalization": [],
+            "tables": [
+                {
+                    "type": "TableStructureModel",
+                    "name": "TableStructureModel",
+                    "version": "NA"
+                }
+            ]
+        }
+    },
+    "version": 2
+}

@@ -1,0 +1,3574 @@
+{
+    "_name": "GDC-submission_Global-Network-Initiative-GNI.pdf",
+    "_type": "pdf-document",
+    "bitmaps": [],
+    "description": {
+        "logs": [
+            {
+                "agent": "CCS",
+                "type": "parsing",
+                "comment": "CCS v9.3.0 parsing of documents",
+                "date": "2024-01-01T19:30:28.219665+00:00"
+            }
+        ]
+    },
+    "equations": [],
+    "figures": [
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    690.96997,
+                    612,
+                    792
+                ],
+                "min": [
+                    438.8251342773438,
+                    710.44677734375,
+                    541.16357421875,
+                    756.122802734375
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.8084522485733032,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        438.8251342773438,
+                        710.44677734375,
+                        541.16357421875,
+                        756.122802734375
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        },
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    691.46997,
+                    612,
+                    792
+                ],
+                "min": [
+                    438.8685607910156,
+                    710.4176025390625,
+                    540.8497924804688,
+                    756.0333862304688
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.795682966709137,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        438.8685607910156,
+                        710.4176025390625,
+                        540.8497924804688,
+                        756.0333862304688
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        },
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    692.46594,
+                    612,
+                    792
+                ],
+                "min": [
+                    439.3536682128906,
+                    710.8523559570312,
+                    541.228271484375,
+                    755.318359375
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.7669622898101807,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        439.3536682128906,
+                        710.8523559570312,
+                        541.228271484375,
+                        755.318359375
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        },
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    694.02997,
+                    612,
+                    792
+                ],
+                "min": [
+                    439.2662963867188,
+                    710.7791137695312,
+                    540.9558715820312,
+                    755.3857421875
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.7873920202255249,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        439.2662963867188,
+                        710.7791137695312,
+                        540.9558715820312,
+                        755.3857421875
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        },
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    691.46997,
+                    612,
+                    792
+                ],
+                "min": [
+                    439.1380615234375,
+                    710.5740966796875,
+                    541.1309204101562,
+                    755.4832763671875
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.7615365386009216,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        439.1380615234375,
+                        710.5740966796875,
+                        541.1309204101562,
+                        755.4832763671875
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        },
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    694.02997,
+                    612,
+                    792
+                ],
+                "min": [
+                    439.4038391113281,
+                    710.8485107421875,
+                    541.2718505859375,
+                    755.2780151367188
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.7842810153961182,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        439.4038391113281,
+                        710.8485107421875,
+                        541.2718505859375,
+                        755.2780151367188
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        },
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    694.02997,
+                    612,
+                    792
+                ],
+                "min": [
+                    439.1440734863281,
+                    710.6282958984375,
+                    540.9887084960938,
+                    755.3863525390625
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.8095724582672119,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        439.1440734863281,
+                        710.6282958984375,
+                        540.9887084960938,
+                        755.3863525390625
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        },
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    694.02997,
+                    612,
+                    792
+                ],
+                "min": [
+                    439.17919921875,
+                    710.5709838867188,
+                    541.012939453125,
+                    755.4236450195312
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.7597532868385315,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        439.17919921875,
+                        710.5709838867188,
+                        541.012939453125,
+                        755.4236450195312
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        },
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    693.32996,
+                    612,
+                    792
+                ],
+                "min": [
+                    439.3328552246094,
+                    710.8479614257812,
+                    540.9869384765625,
+                    755.368896484375
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.7462342381477356,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        439.3328552246094,
+                        710.8479614257812,
+                        540.9869384765625,
+                        755.368896484375
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        },
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    693.32996,
+                    612,
+                    792
+                ],
+                "min": [
+                    438.929443359375,
+                    710.5552978515625,
+                    540.85107421875,
+                    755.9906616210938
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.7356206774711609,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        438.929443359375,
+                        710.5552978515625,
+                        540.85107421875,
+                        755.9906616210938
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        },
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    693.32996,
+                    612,
+                    792
+                ],
+                "min": [
+                    438.8626708984375,
+                    710.5054321289062,
+                    541.2706298828125,
+                    756.1240844726562
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.8216848969459534,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        438.8626708984375,
+                        710.5054321289062,
+                        541.2706298828125,
+                        756.1240844726562
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        },
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    692.42499,
+                    612,
+                    792
+                ],
+                "min": [
+                    439.1695251464844,
+                    710.5188598632812,
+                    541.0152587890625,
+                    755.4020385742188
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.7585470080375671,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        439.1695251464844,
+                        710.5188598632812,
+                        541.0152587890625,
+                        755.4020385742188
+                    ],
+                    "page": 12,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        },
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    693.32996,
+                    612,
+                    792
+                ],
+                "min": [
+                    439.2402648925781,
+                    710.5691528320312,
+                    541.3386840820312,
+                    755.441162109375
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.6234062314033508,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        439.2402648925781,
+                        710.5691528320312,
+                        541.3386840820312,
+                        755.441162109375
+                    ],
+                    "page": 13,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        },
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    693.32996,
+                    612,
+                    792
+                ],
+                "min": [
+                    438.8217163085938,
+                    710.4071655273438,
+                    541.0923461914062,
+                    756.16455078125
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.7884129881858826,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        438.8217163085938,
+                        710.4071655273438,
+                        541.0923461914062,
+                        756.16455078125
+                    ],
+                    "page": 14,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        }
+    ],
+    "file-info": {
+        "#-pages": 14,
+        "document-hash": "f968a9b2da52b0954ef8a8214282aabdb24be67902b8707d18b9b750e38b934b",
+        "filename": "GDC-submission_Global-Network-Initiative-GNI.pdf",
+        "page-hashes": [
+            {
+                "hash": "938944a15928a030f89255e5bf1088549be4b5973f8fd406549172e61b76a5ef",
+                "model": "model",
+                "page": 1
+            },
+            {
+                "hash": "a5adf21ce8c34501f4a37a4cf3d8b050a0a1588fde339e6de04cd93769f390c7",
+                "model": "model",
+                "page": 2
+            },
+            {
+                "hash": "0efc5ef98abc8f170bc023f109f3537be9ef8c0bc9d250de390af77b420dfd53",
+                "model": "model",
+                "page": 3
+            },
+            {
+                "hash": "254cfd8e37bc0b0abf915a48a130e35d1b9ed5b51491d563c5b97c62aa842fbb",
+                "model": "model",
+                "page": 4
+            },
+            {
+                "hash": "f8d89392bbff755fef6cedb6ef960edad624188044e7db67c3fc480801741fb8",
+                "model": "model",
+                "page": 5
+            },
+            {
+                "hash": "68ce0e79c249f00d928889e6edd3196525733710a49bdb2da77298efdf58633f",
+                "model": "model",
+                "page": 6
+            },
+            {
+                "hash": "7e94306d3d7ca579013f8e6a14186790c34154569f38def9b940f399a1e86fc1",
+                "model": "model",
+                "page": 7
+            },
+            {
+                "hash": "cf450b0b3f6ce68a46b737b624e60aab366e7d560283095cb24468e56c8f1c8a",
+                "model": "model",
+                "page": 8
+            },
+            {
+                "hash": "0ca0004ee11ee5ca4decb89b9af8cdf5a007c193fb09d50a3f1b25571ec2a0b5",
+                "model": "model",
+                "page": 9
+            },
+            {
+                "hash": "03682f39fd32646ff809d6de51cb576c1e9224294c1317597ca7812eb9a93bdc",
+                "model": "model",
+                "page": 10
+            },
+            {
+                "hash": "42cecbe9a175156f3822e447b7ecc046620833e89eb528336659eae5ad15841c",
+                "model": "model",
+                "page": 11
+            },
+            {
+                "hash": "8c727fcbb5893c04088ec2b4c6e3189eafd40c144a2bdfd603f846021c41ada8",
+                "model": "model",
+                "page": 12
+            },
+            {
+                "hash": "8947a4978eab48a16e946ff541dc8863dc0672e0d9915db6417e14e41c40e0cf",
+                "model": "model",
+                "page": 13
+            },
+            {
+                "hash": "a9710a5f16b5bef8a09aa8e3d558db7fb530daf59e677b49024fc02b035678c2",
+                "model": "model",
+                "page": 14
+            }
+        ],
+        "filename-prov": "00000.zip",
+        "description": {}
+    },
+    "footnotes": [],
+    "main-text": [
+        {
+            "$ref": "#/figures/0",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "text": "GNI Submission to the Global Digital Compact Consultation",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        135.02687072753906,
+                        676.969970703125,
+                        478.6368103027344,
+                        691.4841918945312
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        57
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The Global Network Initiative (GNI) welcomes the opportunity to submit input to the intergovernmental process on the Global Digital Compact. GNI has held multiple discussions with our full membership to inform the development of this submission, and we are pleased to be able to share core principles and commitments we hope to see reflected in the Global Digital Compact.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        543.9199829101562,
+                        540.137939453125,
+                        644.4038696289062
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        373
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "GNI's perspective is informed by over a decade and a half of experience undertaking multistakeholder collaboration to advance the GNI Principles on Freedom of Expression and Privacy and corresponding Implementation Guidelines (together, the GNI framework). The framework provides guidance on how information and communication technology (ICT) companies can build appropriate policies, systems, and capacity to advance responsible decision-making in response to government pressures, restrictions, or demands. GNI's expert members work together to uphold and promote this framework around the world, assess implementation of the framework by companies through our unique assessment process, participate in shared learning on related issues, challenges, and opportunities, and engage in policy advocacy in support of rights-respecting laws and policies.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        302.1000061035156,
+                        526.9120483398438,
+                        511.8999938964844
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        852
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "GNI members include 90 leading digital rights and press freedom groups, information and communications and technology companies, investors, and academics. This experience guiding company action, undertaking shared learning, and engaging on laws and regulations across four policy areas-network disruptions, privacy and surveillance, jurisdictional assertions and limits, and content regulation-has offered valuable insights that can help guide all stakeholders in developing shared frameworks to help preserve a free, open, and secure Internet.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        148.3000030517578,
+                        541.9799194335938,
+                        270.0799865722656
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        545
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The GNI framework is centered on the rights to freedom of expression and privacy, and is consistent with the foundations of the broader UN Guiding Principles on Business and Human",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        82.26068115234375,
+                        529.3599243164062,
+                        116.2699966430664
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        180
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/0"
+        },
+        {
+            "$ref": "#/figures/1",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "text": "Rights (UNGPs) and international human rights law. Our submission focuses on GNI's core commitments to freedom of expression and privacy, while emphasizing areas where the framework can provide guidance on policies and practices for addressing the full range of human rights, as well as issues where our policy and learning experiences offer insights for broader digital governance and policymaking with a human rights lens. Accordingly, we have organized the submission around core principles to preserve digital rights, and then spelled out specific commitments for companies, governments, and all stakeholders.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.84651947021484,
+                        547.1111450195312,
+                        537.0138549804688,
+                        691.469970703125
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        614
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "At the core of GNI's mission, governance, and work is a commitment to the inclusion of a broad diversity of voices and views and a shared belief in the values and principles established in international human rights law. We strongly encourage the co-chairs of the intergovernmental process, Member States, and all actors contributing to the multistakeholder technology track to ensure that the process and substance of developing the Global Digital Compact reflects this approach.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        393.6300048828125,
+                        538.671875,
+                        515.6500244140625
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        481
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "1) Focus Area: Applying Human Rights Online",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        347.1000061035156,
+                        357.498291015625,
+                        362.1216735839844
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        43
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Principles",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        301.56475830078125,
+                        121.6740493774414,
+                        314.1000061035156
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 The GNI Principles on Freedom of Expression and Privacy and corresponding Implementation Guidelines provide a framework for responsible company decision making and multistakeholder engagement to advance freedom of expression and privacy in the ICT sector. This framework covers:",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        213.5800018310547,
+                        542.4657592773438,
+                        294.6600036621094
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        282
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "o governance and oversight of freedom of expression and privacy risks and opportunities, i.e., 'integrating the Principles into company DNA';",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        126.05000305175781,
+                        169.5500030517578,
+                        500.7258605957031,
+                        205.6640625
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        142
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "o ongoing human rights due diligence (HRDD) and risk management, in line with guidance detailed in the UNGPs;",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        126.05000305175781,
+                        125.55000305175781,
+                        527.0138549804688,
+                        161.1634521484375
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        109
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "o policies and practices to assess and respond to government restrictions,",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        125.74615478515625,
+                        103.52999877929688,
+                        498.6531982421875,
+                        117.71539306640625
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        75
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "demands, and requirements that impact freedom of expression and privacy;",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        132.0975799560547,
+                        81.7750015258789,
+                        517.8427124023438,
+                        95.9429931640625
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        73
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/1"
+        },
+        {
+            "$ref": "#/figures/2",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "text": "o transparency and engagement to inform stakeholders about companies' policies and practices and promote the framework",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        126.05000305175781,
+                        657.3046875,
+                        536.2518920898438,
+                        692.4659423828125
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        118
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 The GNI Principles are rooted in the United Nation Guiding Principles on Business and Human Rights (UNGPs) and International Human Rights Law, which should remain core to any new principles and frameworks developed for an open, free, and secure digital future for all.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        88.13858795166016,
+                        568.9199829101562,
+                        532.06591796875,
+                        650.010009765625
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        273
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 The rights to freedom of expression and privacy should not be restricted by governments, except in narrowly defined circumstances based on internationally recognized laws or standards.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        89.97573852539062,
+                        502.0741271972656,
+                        502.8018798828125,
+                        561.47998046875
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        188
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "o Where governments seek to implement laws and regulations that might contribute to such restrictions, human rights principles can help them find creative and appropriate ways to engage stakeholders, design fit-for-purpose regulations, and mitigate unintended consequences.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        126.05000305175781,
+                        414.099609375,
+                        519.3719482421875,
+                        493.39599609375
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        274
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 The state duty to protect human rights under the UNGPs builds on the obligation not to infringe upon human rights directly and includes both a duty to protect against human rights abuses by third parties, and a duty to ensure legal frameworks do not constrain but enable business respect for human rights.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        325.8500061035156,
+                        535.5618286132812,
+                        406.94000244140625
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        310
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 The principle of non-discrimination should be reflected in any content governance or regulation efforts.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        281.3500061035156,
+                        522.7879028320312,
+                        318.4100036621094
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        109
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 Multistakeholder engagement is a foundational principle in the history of global Internet governance that should be at the core of any additional efforts to set international norms and standards.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        89.40912628173828,
+                        214.5800018310547,
+                        540.3759765625,
+                        273.8899841308594
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        200
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 There is a need for improved, meaningful digital transparency from digital communications companies as well as from governments and regulators in this space.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        169.87579345703125,
+                        527.1659545898438,
+                        207.11000061035156
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        161
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Commitments",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        125.5911865234375,
+                        144.81137084960938,
+                        138.0500030517578
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        11
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "For Companies",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        103.969970703125,
+                        147.172607421875,
+                        116.02999877929688
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        13
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/2"
+        },
+        {
+            "$ref": "#/figures/3",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "text": "\u00b7 Companies should commit to upholding human rights, including by implementing the UNGPs and the GNI Principles. GNI member companies commit to periodic independent assessment of their efforts to implement these principles with improvement over time via GNI's unique accountability mechanism.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        612.9500122070312,
+                        539.64599609375,
+                        694.0299682617188
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        294
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 The GNI framework is focused on freedom of expression and privacy, but provides relevant guidance for addressing the full range of human rights risks and opportunities, including through the establishment of corporate commitments to human rights, developing comprehensive HRDD processes, engaging relevant stakeholders, practicing meaningful transparency, and providing appropriate senior/board-level oversight of these commitments and activities.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        480.02801513671875,
+                        534.1819458007812,
+                        605.47998046875
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        452
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "For Governments:",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        457.71942138671875,
+                        163.4112548828125,
+                        470.3999938964844
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        17
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 Governments considering proposals to address concerns about digital content and conduct should incorporate the guidance detailed in the GNI Content Regulation & Human Rights Policy Brief (CRPB). Governments should conduct careful, public, and participatory deliberation on such proposals, and include strong transparency and accountability measures for relevant oversight or enforcement bodies.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        89.70362854003906,
+                        347.8500061035156,
+                        515.3099365234375,
+                        450.94000244140625
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        399
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 The CRPB details steps governments can take to uphold the human rights principles of legality, legitimacy, and necessity and proportionality, including:",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        302.95916748046875,
+                        528.5297241210938,
+                        340.4100036621094
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        157
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "o Legality-States should refrain from: using vague and reductive definitions that would incentivize over-removal; prohibiting categories of expressive conduct or content without engaging in a transparent and participatory process of debate; outsourcing adjudication of expression to private companies without providing appropriate clarity on interpretation and application of the law; or shifting legal liability from authors to intermediaries for illegal content generated by users.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        126.05000305175781,
+                        170.83111572265625,
+                        532.6619873046875,
+                        294.9111633300781
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        483
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "o Legitimacy-States should refrain from allowing laws and/or regulation to result in discriminate against content based on medium.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        124.48951721191406,
+                        126.892578125,
+                        537.52685546875,
+                        162.862060546875
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        130
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "o Necessity-States should refrain from: applying legal requirements on platforms without considering their relative size, capabilities, and business models;",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        125.40889739990234,
+                        83.5250015258789,
+                        536.39990234375,
+                        118.4539794921875
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        157
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/3"
+        },
+        {
+            "$ref": "#/figures/4",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "text": "imposing strict timelines for removal of content without regard to context, potential unintended consequences, and the value of prioritization; imposing preemptive filtering or general monitoring requirements; or making intermediaries liable for specific content moderation decisions.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        143.99253845214844,
+                        613.3233642578125,
+                        521.6439208984375,
+                        691.469970703125
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        284
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "For All Stakeholders",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        71.77717590332031,
+                        591.0252685546875,
+                        170.53152465820312,
+                        603.749267578125
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        20
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 Where the Global Digital Compact may speak to potential regulatory approaches, we encourage the promotion of first principles, key safeguards, and flexible guidance, as opposed to more rigid regulatory frameworks that can be misconstrued to justify undue restrictions and will have different implications and impacts in distinct jurisdictions depending on context, including resourcing and rule-of-law adherence.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        480.8999938964844,
+                        537.6819458007812,
+                        583.97998046875
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        417
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 The Global Digital Compact consultations and ultimate output should explore avenues to reinforce and build upon existing efforts to empower multistakeholder processes and support work toward a free, open, interoperable, and secure Internet, such efforts being undertaken through the Internet Governance Forum (IGF), the Christchurch Call, the Freedom Online Coalition, and the Action Coalition on Meaningful Transparency.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        370.2235412597656,
+                        541.3218994140625,
+                        473.4599914550781
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        425
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 Continue to build on efforts to identify good practices for meaningful and inclusive stakeholder engagement on digital rights issues.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        89.38874053955078,
+                        325.7137451171875,
+                        511.63653564453125,
+                        362.9100036621094
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        138
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "2) Focus Area: Avoiding Internet Fragmentation",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        279.3500061035156,
+                        369.94952392578125,
+                        293.9001770019531
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        46
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Principles",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        233.44268798828125,
+                        121.84341430664062,
+                        246.3300018310547
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 With increasing regulatory scrutiny of ICTs around the world, international human rights law offers time-tested guidance that can help align these efforts and provide clarity and predictability for governments, companies, and individuals around the world.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        167.5500030517578,
+                        538.5519409179688,
+                        226.88999938964844
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        260
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 The GNI Principles and Implementation Guidelines make clear that ICT companies should comply with all applicable laws and respect internationally recognized human rights, wherever they operate.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        100.6329345703125,
+                        522.0858154296875,
+                        160.36000061035156
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        197
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/4"
+        },
+        {
+            "$ref": "#/figures/5",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "text": "\u00b7 If national laws, regulations, and policies do not conform to international standards, the GNI framework details steps to avoid, minimize, or otherwise address the adverse impact of government demands, laws, or regulations, including:",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        634.7000122070312,
+                        536.6659545898438,
+                        694.0299682617188
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        238
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "o Requiring governments to follow established domestic laws and legal processes;",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        108.05000305175781,
+                        612.9500122070312,
+                        517.4760131835938,
+                        626.1851196289062
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        81
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "o Interpreting government requests narrowly, including regarding the requesting government's jurisdiction;",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        107.6896743774414,
+                        568.9199829101562,
+                        513.6392822265625,
+                        603.9159545898438
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        106
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "o Proactively engaging with governments to encourage laws, regulations, requirements, restrictions, and demands that are consistent with international laws and standards;",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        108.05000305175781,
+                        502.8902282714844,
+                        534.6318969726562,
+                        560.0997924804688
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        170
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "o Seeking the assistance, as needed, of relevant government authorities, international human rights bodies, or non-governmental organizations.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        106.56420135498047,
+                        458.8999938964844,
+                        537.595947265625,
+                        493.89599609375
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        142
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 Government-ordered network disruptions are drastic measures that almost always violate the principles of necessity and proportionality, often occurring during moments of political sensitivity or importance. Disruptions pose significant risks for human rights, as well as economic and social wellbeing.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        369.9711608886719,
+                        536.1819458007812,
+                        451.4599914550781
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        306
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 A small but growing number of governments also seek to implement measures centralizing state control over internet infrastructure, an approach that warrants opprobrium.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        89.88980865478516,
+                        303.8500061035156,
+                        501.0499572753906,
+                        362.9100036621094
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        173
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 Companies that hold user data can and should play an important role in scrutinizing and resisting improper, unnecessary, or disproportionate government demands. GNI recognizes that clear, rights-respecting, and efficient mechanisms for cross-border data sharing for the purposes of criminal investigations can help mitigate the risk of more restrictive alternatives, such as circumventing normal legal process to access user data or compelling data localization.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        170.9676513671875,
+                        537.8997802734375,
+                        296.4100036621094
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        467
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "o GNI encourages bilateral, multilateral, and multistakeholder approaches that facilitate responses by companies who hold data abroad, where appropriate, to governments whose laws and procedures meet relevant international human rights standards.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        107.54219055175781,
+                        83.5250015258789,
+                        533.8219604492188,
+                        162.9410400390625
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        246
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/5"
+        },
+        {
+            "$ref": "#/figures/6",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "text": "\u00b7 Data localization measures can pose privacy risks when paired with disproportionate authorities for governments to access user data stored in a country. By creating single points of failure and targets for attacks, they can also increase cybersecurity risks.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        634.7000122070312,
+                        526.303955078125,
+                        694.0299682617188
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        262
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 Opaque, arbitrary government surveillance practices can contribute further to Internet fragmentation, creating mistrust and limiting access to cross-border mechanisms.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        589.9683837890625,
+                        532.3920288085938,
+                        627.510009765625
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        172
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Commitments",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        71.96802520751953,
+                        545.3031616210938,
+                        143.35752868652344,
+                        558.5640869140625
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        11
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "For Companies",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        524.1799926757812,
+                        147.2050018310547,
+                        536.1799926757812
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        14
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 In line with the guidance from the GNI framework, companies should continue to take steps to avoid, mitigate, or otherwise address potential adverse human rights impacts from laws, policies, and government demands that are likely to reinforce Internet fragmentation.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        89.15011596679688,
+                        435.6300048828125,
+                        528.6240234375,
+                        516.9600219726562
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        271
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 This includes multistakeholder advocacy to encourage governments and international institutions to adopt policies and practices that are consistent with and advance the GNI Principles.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        369.0362548828125,
+                        538.099853515625,
+                        428.19000244140625
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        189
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "For Governments",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        347.0125732421875,
+                        159.209716796875,
+                        359.1000061035156
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        15
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 Governments must refrain from the use of state-sponsored internet shutdowns and disruptions, and support multilateral engagement, including via the Freedom Online Coalition, to curb their use and mitigate their impacts.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        89.33120727539062,
+                        280.6000061035156,
+                        518.9319458007812,
+                        339.6600036621094
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        224
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 Governments should commit to preserving the free flow of data across borders where appropriate safeguards exist to address potential cybersecurity or human rights risks.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        89.12437438964844,
+                        235.82244873046875,
+                        529.32568359375,
+                        273.1399841308594
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        173
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 When seeking to address concerns about digital content and conduct, in line with the guidance in the CRPB, governments should target interventions to services and situations that generate significant risk of harm. This means carefully considering the types of services, at which layers in the ecosystem, that are appropriately positioned to address the specific concerns at issue, recognizing the consequences of such interventions may differ significantly from one type of service to another.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        103.52999877929688,
+                        534.0399780273438,
+                        228.63999938964844
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        498
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/6"
+        },
+        {
+            "$ref": "#/figures/7",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "text": "\u00b7 In looking to establish new mechanisms or update existing mechanisms for sharing digital evidence across borders for criminal investigations, governments should ensure the following principles are included to protect human rights: prior authorization of requests; focus on serious crimes; availability of meaningful redress; transparency regarding the number, type, and scope of the requests; and oversight and accountability.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        89.99420928955078,
+                        590.903076171875,
+                        538.4939575195312,
+                        694.0299682617188
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        430
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 GNI recently expressed concerns about efforts from governments to ban or otherwise eliminate access to specific digital communications platforms. While governments may have legitimate concerns about the impact of digital content and conduct on specific platforms, completely blocking entire platforms, services, or mediums is almost never a necessary or proportionate response to such concerns.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        480.1371765136719,
+                        534.285888671875,
+                        583.47998046875
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        399
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u00b7 Regulators should continue to identify spaces to strengthen shared values and alignment on rights-respecting regulations.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        88.6731948852539,
+                        435.6300048828125,
+                        541.6919555664062,
+                        472.9599914550781
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        126
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "For All Stakeholders",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        71.93511962890625,
+                        413.6300048828125,
+                        170.5540771484375,
+                        426.3671875
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        20
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ Build capacity for and increased engagement with digital rights experts in global Internet governance conversations, including in standards bodies.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        369.8800048828125,
+                        541.3599853515625,
+                        405.739990234375
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        157
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "3) Focus Area: Promoting Artificial Intelligence",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        89.8061752319336,
+                        323.3500061035156,
+                        364.4480895996094,
+                        338.0782165527344
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        48
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Principles",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        71.9892349243164,
+                        277.9373779296875,
+                        121.84893035888672,
+                        290.1000061035156
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ As detailed in the GNI framework, consistent with the UNGPs, and considering international human rights standards, participating companies will carry out HRDD to identify, prevent, evaluate, mitigate and account for risks to the freedom of expression and privacy rights that are implicated by the company's products, services, activities and operations.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        168.050048828125,
+                        539.161865234375,
+                        270.1899719238281
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        362
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u00b7}$ Where HRDD identifies circumstances where freedom of expression and privacy may be jeopardized or advanced, GNI companies commit to employ human rights impact assessments (HRIAs) and develop effective risk mitigation strategies as appropriate.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        124.23692321777344,
+                        80.0927734375,
+                        541.4778442382812,
+                        160.16000366210938
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        253
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/7"
+        },
+        {
+            "$ref": "#/figures/8",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "text": "$_{\u00b7}$ Designing and introducing new technologies, products, and services, and their use, is one area where HRDD has previously revealed the need for HRIAs.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        125.73872375488281,
+                        657.4500122070312,
+                        526.6319580078125,
+                        693.3299560546875
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        159
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ Among other good practices, HRIAs should be prioritized where risks of adverse impacts are most salient, should be updated over time, and should draw upon insights from a variety of sources.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        591.4199829101562,
+                        538.1818237304688,
+                        649.3099975585938
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        200
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ GNI companies also commit to use best efforts ensure that business partners, investments, suppliers, distributors, and other relevant related parties follow these Principles.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        525.6699829101562,
+                        513.5179443359375,
+                        583.2799682617188
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        184
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ Recognizing the constant change in the ICT sector, GNI's multistakeholder membership commit to undertaking shared learning on contemporary freedom of expression and privacy challenges, including considerations around new and emerging technologies and the GNI framework.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        437.6499938964844,
+                        539.6939697265625,
+                        517.510009765625
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        279
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ All stakeholders should give particular care to the potential freedom of expression risks associated with automated tools for content moderation;",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        393.6300048828125,
+                        533.1739501953125,
+                        429.489990234375
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        155
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u00b7}$ Requirements for companies to proactively filter types of harmful content require significant human rights scrutiny.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        124.13871002197266,
+                        349.6000061035156,
+                        505.6619873046875,
+                        385.71868896484375
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        126
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ We support the risk-based approach taken by various national and multilateral initiatives considering legal frameworks for AI, which target the uses of artificial intelligence that offer the most salient risks and tailor requirements for identifying, preventing, and mitigating risks accordingly.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        261.80908203125,
+                        541.421875,
+                        341.7099914550781
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        306
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ The application of artificial intelligence by public actors, including law enforcement, deserves at least as much, if not more, scrutiny as commercial applications in any regulatory framework. Requirements for privacy risk assessments or HRDD or HRIA should apply equally to commercial and public uses.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        173.7532958984375,
+                        516.311767578125,
+                        253.82098388671875
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        311
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Commitments",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        129.64569091796875,
+                        145.11016845703125,
+                        142.0500030517578
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        11
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "For Governments",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        108.02999877929688,
+                        159.99363708496094,
+                        120.02999877929688
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        15
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/8"
+        },
+        {
+            "text": "9",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        535.72998046875,
+                        36.0,
+                        540.29296875,
+                        45.0
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        1
+                    ]
+                }
+            ]
+        },
+        {
+            "$ref": "#/figures/9",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "text": "$_{\u25cf}$ Whether governments are deploying AI-enabled technology directly, or requiring or incentivizing its use by other actors, it is critical that they continue to ensure that the development, design, and deployment of such technology is conducted transparency, informed by stakeholder input, and governed by adequate transparency and accountability. Without sufficient and appropriate governance frameworks that allow for independent scrutiny, risk identification and mitigation, public awareness and education, individual choice/ability to opt-out, and appropriate remedy, public trust will be undermined and the potential benefits of AI-enabled technologies will be jeopardized.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        89.91565704345703,
+                        525.6699829101562,
+                        541.1017456054688,
+                        693.3299560546875
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        684
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ Governments must take a more active role in developing safeguards, such as robust transparency, accountability, and oversight mechanisms, regarding the use of AI-enabled technologies for law enforcement and surveillance purposes. This includes particular attention to the privacy and data protection risks associated with the collection of biometric data.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.02845001220703,
+                        415.6300048828125,
+                        540.9139404296875,
+                        517.510009765625
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        365
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ Governments seeking to regulate AI should ground such efforts in international human rights law, which provide an important baseline from which to analyze risks and opportunities effectively, to define key safeguards and proportionate approaches, and to help ensure that myriad efforts at national, regional, and international levels to regulate AI are in sync.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        305.8500061035156,
+                        540.0498046875,
+                        407.489990234375
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        371
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "For Companies",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        283.8500061035156,
+                        148.137451171875,
+                        295.8500061035156
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        13
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ Companies must ensure that their development and use of AI-enabled technology, including the sale of such technologies, is consistent with their responsibility to respect human rights, including the right to privacy. GNI's multistakeholder framework offers a model for the ICT sector to ensure respect for privacy and freedom of expression in their products, services, and operations, including those utilizing AI.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        173.8000030517578,
+                        540.3978271484375,
+                        275.6899719238281
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        424
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ As detailed in the data protection section below, companies must employ protections with respect to personal information in all countries where they operate.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        129.9105224609375,
+                        525.5960083007812,
+                        165.66000366210938
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        167
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "For All stakeholders",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        107.99920654296875,
+                        170.55435180664062,
+                        120.7540283203125
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        21
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "10",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        530.969970703125,
+                        36.0,
+                        539.969970703125,
+                        45.0
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        2
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/9"
+        },
+        {
+            "$ref": "#/figures/10",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "text": "$_{\u25cf}$ Inclusive and diverse multistakeholder engagement should be core to any normative efforts and their promotion. All stakeholders must pay particular attention to the impacts on marginalized groups when considering regulating or implementing AI technologies.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        613.3023681640625,
+                        520.0339965820312,
+                        693.3299560546875
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        266
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ GNI strives to continue fostering shared learning and expert engagement on AI issues, including potential discussions on generative AI.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        568.84814453125,
+                        526.9939575195312,
+                        605.2799682617188
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        144
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "4) Focus Area: Protect Data",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        523.1699829101562,
+                        251.97511291503906,
+                        537.1699829101562
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        27
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Principles",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        477.7270202636719,
+                        121.84837341308594,
+                        489.8999938964844
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ The GNI Principles on Freedom of Expression and Privacy and corresponding Implementation Guidelines call on companies to employ protections with respect to personal information in all countries where they operate in order to protect the privacy rights of users in the face of government demands and restrictions.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        390.07818603515625,
+                        534.2777709960938,
+                        469.7599792480469
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        322
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ The GNI framework encourages participating companies to disclose, to the extent allowed under the law, what laws and policies compel them to provide personal information to government authorities, what personal information the participating companies collect, and the company's policies and procedures for responding to government demands (see more about these policies and practices in the 'Internet Fragmentation' section).",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.00247192382812,
+                        257.96563720703125,
+                        517.3218994140625,
+                        381.989990234375
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        434
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u00b7}$ The framework also details that participating companies will assess the human rights risks associated with the collection, storage, and retention of personal information in the jurisdictions where they operate and develop appropriate mitigation strategies to address these risks.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        126.05000305175781,
+                        169.81878662109375,
+                        528.7119140625,
+                        249.9742431640625
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        288
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ GNI encourages companies to adopt policies and procedures that address situations where governments may make demands through proxies and other third parties to evade domestic legal procedures.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        103.73760986328125,
+                        518.827880859375,
+                        162.16000366210938
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        202
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/10"
+        },
+        {
+            "$ref": "#/figures/11",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "text": "\u25cf Government surveillance activities must comply with principles of rule of law and democratic governance, as well as human rights principles such as legality, necessity, and proportionality.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        634.7293701171875,
+                        542.6199340820312,
+                        692.4249877929688
+                    ],
+                    "page": 12,
+                    "span": [
+                        0,
+                        193
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u00b7}$ GNI has documented concerns about legal and technical arrangements that allow government authorities to access data streams directly-that is, without having to request access from, or even notify, the service providers that collect and/or transmit the data as part of their services. By taking operators 'out of the loop,' these 'direct access' arrangements remove a critical potential safeguard for user privacy.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        124.62269592285156,
+                        503.6499938964844,
+                        542.2779541015625,
+                        627.3099975585938
+                    ],
+                    "page": 12,
+                    "span": [
+                        0,
+                        423
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u25cf Governments and regulators considering new or updated data protection laws must also center human rights in their design. This includes not only ensuring strong foundations for privacy and data protection, but avoiding some of the risks and pitfalls GNI has seen in recent approaches, which include: overly broad exceptions for public actors and/or national security purposes; using data protection to expand surveillance authorities; insufficient independence and oversight of new regulatory bodies; or unnecessary limits on cross-border data flows (see 'Internet Fragmentation' section above).",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        349.6000061035156,
+                        540.5517578125,
+                        494.77294921875
+                    ],
+                    "page": 12,
+                    "span": [
+                        0,
+                        599
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Commitments",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        71.88954162597656,
+                        305.8148193359375,
+                        144.0670166015625,
+                        318.14471435546875
+                    ],
+                    "page": 12,
+                    "span": [
+                        0,
+                        11
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "For Companies:",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        71.92032623291016,
+                        283.8500061035156,
+                        150.65965270996094,
+                        295.8500061035156
+                    ],
+                    "page": 12,
+                    "span": [
+                        0,
+                        14
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ Companies should assess the human rights risks of data collection and storage practices in jurisdictions on an ongoing basis and develop mitigation strategies, as described in the GNI framework.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        89.51127624511719,
+                        217.8300018310547,
+                        542.2698974609375,
+                        275.6899719238281
+                    ],
+                    "page": 12,
+                    "span": [
+                        0,
+                        204
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ Companies should seek to be transparent about the laws and regulations that may authorize access to user data, including via resources like the GNI Country Legal Frameworks Resource, and to share statistics about the demands they face to the extent the law allows.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        129.2825927734375,
+                        540.095947265625,
+                        209.99761962890625
+                    ],
+                    "page": 12,
+                    "span": [
+                        0,
+                        274
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "For Governments",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0250015258789,
+                        107.89923095703125,
+                        159.6746826171875,
+                        120.42486572265625
+                    ],
+                    "page": 12,
+                    "span": [
+                        0,
+                        15
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "12",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        530.969970703125,
+                        36.0,
+                        539.969970703125,
+                        45.0
+                    ],
+                    "page": 12,
+                    "span": [
+                        0,
+                        2
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/11"
+        },
+        {
+            "$ref": "#/figures/12",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "text": "$_{\u25cf}$ Lead by example by committing to data protection approaches that consider responsibility for public actors and/or avoid broad exemptions for those actors.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        657.0325317382812,
+                        495.13800048828125,
+                        693.3299560546875
+                    ],
+                    "page": 13,
+                    "span": [
+                        0,
+                        164
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ Collection and processing of data by governments should be subject to clear and meaningful safeguards:",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        612.8121948242188,
+                        501.79388427734375,
+                        649.3099975585938
+                    ],
+                    "page": 13,
+                    "span": [
+                        0,
+                        112
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u00b7}$ Any exemptions must be narrowly defined, subject to the principles of necessity, proportionality, and legality consistent with international human rights standards.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        125.63733673095703,
+                        547.4199829101562,
+                        537.3359375,
+                        605.2799682617188
+                    ],
+                    "page": 13,
+                    "span": [
+                        0,
+                        173
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u00b7}$ Governments should commit to strict standards for access to user data, such as independent judicial authorization, avenues for oversight and transparency, and remedial measures.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        125.0,
+                        481.6499938964844,
+                        534.9339599609375,
+                        539.5299682617188
+                    ],
+                    "page": 13,
+                    "span": [
+                        0,
+                        187
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u00b7}$ Governments should provide notice to surveillance targets when notification won't unduly impact investigations, and avoid undue restrictions on companies providing notice.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        124.56644439697266,
+                        415.6300048828125,
+                        531.0317993164062,
+                        473.5099792480469
+                    ],
+                    "page": 13,
+                    "span": [
+                        0,
+                        181
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u00b7}$ Governments should not only enable company transparency around government demands, but law enforcement and executive bodies should also model transparency measures to complement these company efforts.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        125.17426300048828,
+                        349.6000061035156,
+                        539.8980712890625,
+                        407.489990234375
+                    ],
+                    "page": 13,
+                    "span": [
+                        0,
+                        210
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ Governments should address potential legal loopholes that can enable government procurement of user data via third parties.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        89.73580932617188,
+                        305.8500061035156,
+                        515.656005859375,
+                        341.7099914550781
+                    ],
+                    "page": 13,
+                    "span": [
+                        0,
+                        133
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ Governments should avoid introducing legal frameworks enabling direct access. Where these authorities exist already, they should at minimum: (i) provide sufficient authorization procedures, supervision, and remedy so as to ensure that surveillance conducted is proportional to the purpose for which it is authorized and provide effective guarantees against abuse; (ii) allow companies to disclose information about interception and access to data on their networks; and (iii) ensure that such access is disclosed to the subject in a timely manner if that data is used in any civil, administrative, or criminal proceeding.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        129.8326416015625,
+                        539.005859375,
+                        297.7099914550781
+                    ],
+                    "page": 13,
+                    "span": [
+                        0,
+                        631
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/12"
+        },
+        {
+            "$ref": "#/figures/13",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "text": "$_{\u00b7}$ Governments should also strengthen export controls for technologies that are intended for use in direct access in countries with repressive track records, in line with UNGPs.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        125.9177474975586,
+                        634.6525268554688,
+                        540.9857788085938,
+                        693.3299560546875
+                    ],
+                    "page": 14,
+                    "span": [
+                        0,
+                        183
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "For All Stakeholders",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        71.97677612304688,
+                        613.3255004882812,
+                        170.7622833251953,
+                        625.6136474609375
+                    ],
+                    "page": 14,
+                    "span": [
+                        0,
+                        20
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ As laws and regulations envision new mechanisms for data access for researchers, an admirable transparency aim, there is an important responsibility to put forth good guidance on related data protection measures as well.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        547.0652465820312,
+                        523.6339721679688,
+                        605.2799682617188
+                    ],
+                    "page": 14,
+                    "span": [
+                        0,
+                        229
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "$_{\u25cf}$ All stakeholders should advocate for expanded transparency, oversight, and accountability of laws, regulations, and actions related to communications surveillance.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.05000305175781,
+                        503.6499938964844,
+                        531.8859252929688,
+                        539.7058715820312
+                    ],
+                    "page": 14,
+                    "span": [
+                        0,
+                        172
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/13"
+        }
+    ],
+    "page-dimensions": [
+        {
+            "height": 792,
+            "page": 1,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 2,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 3,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 4,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 5,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 6,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 7,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 8,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 9,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 10,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 11,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 12,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 13,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 14,
+            "width": 612
+        }
+    ],
+    "page-footers": [
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        87.775002,
+                        35.89013671875,
+                        540.29297,
+                        45
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        118
+                    ]
+                }
+            ],
+            "text": " 1325 G St. NW, Suite 500, Washington, DC 20005 \u2022 GlobalNetworkInitiative.org \u2022 info@GlobalNetworkInitiative.org 1",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        87.775002,
+                        35.4827880859375,
+                        541.5946655273438,
+                        45.0504150390625
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        118
+                    ]
+                }
+            ],
+            "text": " 1325 G St. NW, Suite 500, Washington, DC 20005 \u2022 GlobalNetworkInitiative.org \u2022 info@GlobalNetworkInitiative.org 2",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        87.775002,
+                        35.6099853515625,
+                        540.29297,
+                        45.193359375
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        118
+                    ]
+                }
+            ],
+            "text": " 1325 G St. NW, Suite 500, Washington, DC 20005 \u2022 GlobalNetworkInitiative.org \u2022 info@GlobalNetworkInitiative.org 3",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        87.75558471679688,
+                        35.51361083984375,
+                        540.8567504882812,
+                        45
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        118
+                    ]
+                }
+            ],
+            "text": " 1325 G St. NW, Suite 500, Washington, DC 20005 \u2022 GlobalNetworkInitiative.org \u2022 info@GlobalNetworkInitiative.org 4",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        87.775002,
+                        35.37579345703125,
+                        541.0953979492188,
+                        45.5599365234375
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        118
+                    ]
+                }
+            ],
+            "text": " 1325 G St. NW, Suite 500, Washington, DC 20005 \u2022 GlobalNetworkInitiative.org \u2022 info@GlobalNetworkInitiative.org 5",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        87.775002,
+                        35.42889404296875,
+                        541.1973266601562,
+                        45.48895263671875
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        118
+                    ]
+                }
+            ],
+            "text": " 1325 G St. NW, Suite 500, Washington, DC 20005 \u2022 GlobalNetworkInitiative.org \u2022 info@GlobalNetworkInitiative.org 6",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        87.68998718261719,
+                        35.3931884765625,
+                        542.2360229492188,
+                        45.47540283203125
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        118
+                    ]
+                }
+            ],
+            "text": " 1325 G St. NW, Suite 500, Washington, DC 20005 \u2022 GlobalNetworkInitiative.org \u2022 info@GlobalNetworkInitiative.org 7",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        87.775002,
+                        35.4017333984375,
+                        541.1149291992188,
+                        45.4073486328125
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        118
+                    ]
+                }
+            ],
+            "text": " 1325 G St. NW, Suite 500, Washington, DC 20005 \u2022 GlobalNetworkInitiative.org \u2022 info@GlobalNetworkInitiative.org 8",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        87.40137481689453,
+                        35.52935791015625,
+                        535.9777221679688,
+                        45.20379638671875
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        116
+                    ]
+                }
+            ],
+            "text": " 1325 G St. NW, Suite 500, Washington, DC 20005 \u2022 GlobalNetworkInitiative.org \u2022 info@GlobalNetworkInitiative.org",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        87.23458862304688,
+                        35.3721923828125,
+                        532.38525390625,
+                        45.46356201171875
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        116
+                    ]
+                }
+            ],
+            "text": " 1325 G St. NW, Suite 500, Washington, DC 20005 \u2022 GlobalNetworkInitiative.org \u2022 info@GlobalNetworkInitiative.org",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        87.775002,
+                        35.28436279296875,
+                        539.96997,
+                        45.65283203125
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        119
+                    ]
+                }
+            ],
+            "text": " 1325 G St. NW, Suite 500, Washington, DC 20005 \u2022 GlobalNetworkInitiative.org \u2022 info@GlobalNetworkInitiative.org 11",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        87.19763946533203,
+                        35.3516845703125,
+                        532.5260009765625,
+                        45.51458740234375
+                    ],
+                    "page": 12,
+                    "span": [
+                        0,
+                        116
+                    ]
+                }
+            ],
+            "text": " 1325 G St. NW, Suite 500, Washington, DC 20005 \u2022 GlobalNetworkInitiative.org \u2022 info@GlobalNetworkInitiative.org",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        87.13599395751953,
+                        35.60565185546875,
+                        539.96997,
+                        45.33416748046875
+                    ],
+                    "page": 13,
+                    "span": [
+                        0,
+                        119
+                    ]
+                }
+            ],
+            "text": " 1325 G St. NW, Suite 500, Washington, DC 20005 \u2022 GlobalNetworkInitiative.org \u2022 info@GlobalNetworkInitiative.org 13",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        86.64887237548828,
+                        35.7056884765625,
+                        539.96997,
+                        45.023193359375
+                    ],
+                    "page": 14,
+                    "span": [
+                        0,
+                        119
+                    ]
+                }
+            ],
+            "text": " 1325 G St. NW, Suite 500, Washington, DC 20005 \u2022 GlobalNetworkInitiative.org \u2022 info@GlobalNetworkInitiative.org 14",
+            "type": "page-footer"
+        }
+    ],
+    "page-headers": [],
+    "references": [],
+    "tables": [],
+    "conversion_settings": {
+        "model_pipeline": {
+            "clusters": [
+                {
+                    "type": "LayoutSegmentationModel",
+                    "name": "LayoutSegmentationModel",
+                    "version": "NA"
+                }
+            ],
+            "page": [],
+            "normalization": [],
+            "tables": [
+                {
+                    "type": "TableStructureModel",
+                    "name": "TableStructureModel",
+                    "version": "NA"
+                }
+            ]
+        }
+    },
+    "version": 2
+}

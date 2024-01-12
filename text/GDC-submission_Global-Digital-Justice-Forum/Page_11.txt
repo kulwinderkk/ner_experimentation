@@ -1,0 +1,21 @@
+
+ Submission of Inputs for the Global Digital Compact 
+ Global Digital Justice Forum
+2. Strengthen the proposed UNESCO Guidelines for Regulating Digital Platforms (intended to serve as a model code for content governance) by including the following aspects:
+a. Mandatory human rights compliance and periodic due diligence for platforms.
+b. Interoperability obligations and a duty of transparency in respect of both algorithmic content moderation and content curation functions performed by digital platforms, and duty to cooperate with public audits by independent national regulators.
+Actions-Governments
+1. Based on a human rights-based intermediary liability framework, set up an independent national agency for the effective regulation of automated content moderation and curation systems of digital services platforms (whether owned by state or non-state actors) with the mandate to:
+a. Prevent de facto opt-ins into algorithmic personalization, and guarantee data portability.
+b. Review content take down orders by state agencies for impact on user freedoms.
+c. Ensure that rules for algorithmic recommendation systems of digital services platforms encode crucial public interest values such as media pluralism and diversity, and not just focus on maximizing user preference and choice.
+d. Develop and implement an independent public AI system for automated content moderation based on public standards and weightages, which are open to scrutiny and built through public deliberations. This should be the 'reg-tech' for all public and private digital media services operating in a particular context.
+2. Introduce legislation to provide safeguards to digital media publishers against political interference in editorial decisions and surveillance. (The proposed EU Media Freedoms Act is a notable development in this regard).
+6. Regulation of Artificial Intelligence
+Problem Statement
+AI risk-mapping is guided by an unhelpful long-termism. This, in effect, has seen the proliferation of a discourse of 'eth ical AI', which, even if useful, is unable to address the here-and-now damage caused by the concentration of economic and political power, and entrenchment of social inequities in the design and deployment of AI systems. The dual-use nature and possible misuse of AI technologies in the military domain by states and non-state actors also presents a real threat that the multilateral system has not tackled front and center.
+There is a growing gap in technological capabilities between countries that are AI leaders and those lagging behind in technological advancement, which is exacerbated by current IP regimes that impede AI development for public and social ends.
+Principles
+1. No AI is too powerful to evade public oversight.
+2. The 'precautionary principle' used in environmental law and used by the EU in its AI regulation must guide the
+ 12

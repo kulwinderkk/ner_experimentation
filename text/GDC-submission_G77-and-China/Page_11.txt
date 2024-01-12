@@ -1,0 +1,8 @@
+
+54. Currently, there is no multilaterally agreed approach on data governance. The GDC should draw attention to the importance of multilateral spaces to further address data governance issues, including through greater cooperation and harmonization.
+55. The GDC should encourage the relevant UN agencies and multilateral efforts in the formulation of international rules on data governance and protection reflecting the views and interests of all countries.
+56. The GDC should encourage efforts to address the potential harms and negative impacts of the misuse of data.
+57. The GDC should recognize that there is a need to strengthen international cooperation to enable cross-border data flows to maximize development gains. There is an urgent need to develop a common approach to global data flows that work for both people and the planet.
+58. The GDC should recognize the need to address the multiple challenges in the use of data, such as the growing digital divide, including the data divide; the lack of relevant skills and capacities and disparate international legal and regulatory frameworks and incipient domestic legal and regulatory frameworks.
+59. Dealing with data and associated opportunities and challenges will require a global response, with the equal participation of all countries.
+60. The GDC should boost enhanced international cooperation, including technology transfer, knowledge and expertise sharing, capacity building, technical assistance, and educational and professional training and correlated resources, so that developing countries can share in the social and economic benefits of the data economy and are equipped to effectively regulate data protection, use, and flows in the face of rapid technological change.

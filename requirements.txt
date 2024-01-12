@@ -1,0 +1,8 @@
+llama-index
+spacy
+python-dotenv
+deepsearch-toolkit
+tiktoken
+weaviate-client
+pypdf
+transformers

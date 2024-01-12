@@ -1,0 +1,11 @@
+
+● Government surveillance activities must comply with principles of rule of law and democratic governance, as well as human rights principles such as legality, necessity, and proportionality.
+$_{·}$ GNI has documented concerns about legal and technical arrangements that allow government authorities to access data streams directly-that is, without having to request access from, or even notify, the service providers that collect and/or transmit the data as part of their services. By taking operators 'out of the loop,' these 'direct access' arrangements remove a critical potential safeguard for user privacy.
+● Governments and regulators considering new or updated data protection laws must also center human rights in their design. This includes not only ensuring strong foundations for privacy and data protection, but avoiding some of the risks and pitfalls GNI has seen in recent approaches, which include: overly broad exceptions for public actors and/or national security purposes; using data protection to expand surveillance authorities; insufficient independence and oversight of new regulatory bodies; or unnecessary limits on cross-border data flows (see 'Internet Fragmentation' section above).
+Commitments
+For Companies:
+$_{●}$ Companies should assess the human rights risks of data collection and storage practices in jurisdictions on an ongoing basis and develop mitigation strategies, as described in the GNI framework.
+$_{●}$ Companies should seek to be transparent about the laws and regulations that may authorize access to user data, including via resources like the GNI Country Legal Frameworks Resource, and to share statistics about the demands they face to the extent the law allows.
+For Governments
+12
+ 1325 G St. NW, Suite 500, Washington, DC 20005 • GlobalNetworkInitiative.org • info@GlobalNetworkInitiative.org

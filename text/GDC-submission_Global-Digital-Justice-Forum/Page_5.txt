@@ -1,0 +1,17 @@
+
+ Submission of Inputs for the Global Digital Compact 
+ Global Digital Justice Forum
+2. Redefine the mandate of international financial institutions to meet the challenges of a new epoch, providing assistance to build autonomous platform and data infrastructure which supports digital industrialization in the global South. Eradicate tax havens to realize adequate revenues for fairer digital societies.
+Actions-Governments
+1. Set up and effectively utilize a Universal Service Obligation Fund (USOF) with gender budgeting to ensure uni versal access to the Internet as a public service, including through public access and data allowance programs.
+2. Regulate Internet Service Providers to ensure non-discriminatory and affordable access. This includes through rules for zero services business models, price caps on broadband services, obligatory private infrastructural investment, and a tax on transnational Internet services providers and investors of foreign direct investment (FDI) in digital sectors. These measures can support zero-cost access programs in remote, rural and underserved geographies.
+3. Invest in the creation of digital public goods, and models for connectivity and services involving participatory approaches and public-community partnerships.
+4. Create a positive regulatory and policy environment for community-owned networks of all kinds, including the use of USOF funds.
+5. Develop policies and standards, including due diligence guidance for digital services corporations, to eliminate algorithmic and ecological harms in digital value chains, and encourage environmentally-friendly digital services and innovation.
+6. Build critical thinking capacities, digital literacy and media literacy among children and youth, including through the public education system, also investing in public digital resources to create a rich learning environment which is not controlled by for-profit corporations.
+2. Avoid Internet Fragmentation
+Problem Statement
+Big Tech-led standards processes for the embedded Internet, like the Metaverse Standards Forum, further the consolidation of the privatized walled gardens of platform behemoths. The WSIS agenda of internationalizing the technical governance of Critical Internet Resources remains incomplete, due to the flawed Internet Assigned Numbers Authority (IANA) transition process in 2016, with ICANN remaining under US jurisdiction. Also, given the lack of progress towards a multilateral mechanism for Internet-related public policy issues, the 'enhanced cooperation' agenda from the WSIS remains unfinished. Against this backdrop, unilateral actions of governments (for instance, the US-China standoff) heighten the risk of a 'Splinternet'.
+Principles
+1. The Internet must be preserved as an open, secure, free and equitable global commons that can neither be enclosed by private platforms nor misused to undercut human rights and global peace for narrow political ends.
+ 6

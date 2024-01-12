@@ -1,0 +1,18 @@
+
+ Submission of Inputs for the Global Digital Compact 
+ Global Digital Justice Forum
+2. In accordance with the WSIS consensus:
+a. A democratic governance framework must be designed for global Internet governance, rejecting outright the failed model of 'equal-footing multistakeholderism' that has given Big Tech an illegitimate seat at the policy table.
+b. Sovereignty of state parties on Internet-related public policy issues must be respected in Internet governance processes at the international level.
+Goals
+1. To put the WSIS consensus into action (Para 48 of the Geneva Declaration of Principles & Para 70 of the Tunis Agenda) for-a) effective internationalization of technical policy issues in Internet governance (pertaining to Critical Internet Resources, including, in particular, Internet names and addresses), and b) a separate mechanism for 'enhanced cooperation' distinct from the Internet Governance Forum (Para 69 of the Tunis Agenda).
+2. To develop binding technology standards based on democratic deliberation at the multilateral level to prevent Internet fragmentation.
+Actions-Multilateral System
+1. Accord jurisdictional immunity to ICANN and rescind the clause in the IANA transition agreement that requires its incorporation in the US. Re-incorporate ICANN as an international entity akin to the Red Cross.
+2. Revise and expand the International Telecommunication Regulations (ITRs) to include binding international standards on network-data technologies (such as interoperability, security, personal data protection, quality benchmarking etc.) for adoption by all countries, effectively replacing voluntary guidance mechanisms such as the ITU Telecommunication Standardization Sector (ITU-T) focus group on metaverse.
+3. Set in motion a plan of action to reaffirm and implement the July 2022 resolution of the Economic and Social Council that commits to pursuing enhanced cooperation, as distinct from the Internet Governance Forum (IGF), including preparatory guidelines for WSIS+20.
+3. Protect Data
+Problem Statement
+The clickbait model to valorize user attention for private profit has permeated the entirety of the digital services econ omy today. Consent frameworks place an unreasonable burden on individuals to be vigilant about their data. Corporations exploit this to their benefit, including through dark patterns in the design of digital services, nudging users into the net of behavioral surveillance. These trends suggest a deep vitiation of the democratic social fabric.
+Traditional approaches to data protection that limit privacy harms to non-consensual data processing and re-identifica tion of the data subject are not adequate to safeguard individuals and society from data harms. Evidence suggests that even without re-identification, there are a host of individual/collective harms that emerge from group profiling (such as denial of rightful entitlements in algorithmic sorting of welfare recipients or social credit scoring in digital financial services targeted at vulnerable populations).
+ 7

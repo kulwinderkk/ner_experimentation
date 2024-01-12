@@ -1,0 +1,1757 @@
+{
+    "_name": "G77 and China inputs to the Global Digital Compact  discussions  1. The Group emphasizes that the Global Digital Compact (GDC) must  be a States-led process and ensure full and equal participation of all  States, especially developing countries. and the Commission on Science, Technology, Development  (CSTD).",
+    "_type": "pdf-document",
+    "bitmaps": [],
+    "description": {
+        "title": "G77 and China inputs to the Global Digital Compact  discussions  1. The Group emphasizes that the Global Digital Compact (GDC) must  be a States-led process and ensure full and equal participation of all  States, especially developing countries. and the Commission on Science, Technology, Development  (CSTD).",
+        "logs": [
+            {
+                "agent": "CCS",
+                "type": "parsing",
+                "comment": "CCS v9.3.0 parsing of documents",
+                "date": "2024-01-01T19:29:03.611164+00:00"
+            }
+        ]
+    },
+    "equations": [],
+    "figures": [],
+    "file-info": {
+        "#-pages": 14,
+        "document-hash": "584d25c5bb5b7e4a495cf4672e158fdc837a352c1d3cc7be52a626c14fbf2f04",
+        "filename": "GDC-submission_G77-and-China.pdf",
+        "page-hashes": [
+            {
+                "hash": "1a780e9a11146772b98828e755e8ae48efd6a3d0194536a585438feaee6cdea8",
+                "model": "model",
+                "page": 1
+            },
+            {
+                "hash": "31213f71e9a71856a4fa9e686c2d0a39954f39e301c61d65b8c38173da590beb",
+                "model": "model",
+                "page": 2
+            },
+            {
+                "hash": "51ddf4ad069a1c2313f2a3968921e81a39f6e9f6634db12f3cf03ce6a89fbb55",
+                "model": "model",
+                "page": 3
+            },
+            {
+                "hash": "e83b2cd18393cacb8ae4931691dad795ba872783b8ba34debdf4891afa83f7d6",
+                "model": "model",
+                "page": 4
+            },
+            {
+                "hash": "9aff84e3af300e2781c3258b08699ad0fceeb675d8ce821cf20e787155870445",
+                "model": "model",
+                "page": 5
+            },
+            {
+                "hash": "aed479129624d72ab9e0b05afe0f725f30e6e4602d0649e12464f68280bdc8a0",
+                "model": "model",
+                "page": 6
+            },
+            {
+                "hash": "8a56b7c5e4b38f618870c042d1d36a9b0a6d6619723149433ee8aaff53cf8533",
+                "model": "model",
+                "page": 7
+            },
+            {
+                "hash": "8c05f5879963d49c66d4ae5f3b860ed782c9ed4ba2b93215dab720a21c8c29c5",
+                "model": "model",
+                "page": 8
+            },
+            {
+                "hash": "1d682b7527a32f8f7284742711b17c9c9ba3ba87ea42221a674f48e94635521f",
+                "model": "model",
+                "page": 9
+            },
+            {
+                "hash": "8a38e142107161fa54075806d5938bfdd68ba4d7d3af8ae5c09f1b09ac39c879",
+                "model": "model",
+                "page": 10
+            },
+            {
+                "hash": "4b0b6d0c197eb77bc6ef12708215147c5abcd0f35926863612546638fd5b6f6d",
+                "model": "model",
+                "page": 11
+            },
+            {
+                "hash": "c497fdaf3936cdabed1dc26debf90eecd62d8f0e359b639ff4e7012f4d1f1f19",
+                "model": "model",
+                "page": 12
+            },
+            {
+                "hash": "2cacba4df503870fa5c1e9f120be4e8cf974a93f95af6f8d583bba21c1b11471",
+                "model": "model",
+                "page": 13
+            },
+            {
+                "hash": "1628da10a8d6a4e2889198d75557682d58e0c136eba5d4f1386c0ac72bb5ad73",
+                "model": "model",
+                "page": 14
+            }
+        ],
+        "filename-prov": "00000.zip",
+        "description": {}
+    },
+    "footnotes": [],
+    "main-text": [
+        {
+            "text": "G77 and China inputs to the Global Digital Compact discussions",
+            "name": "title",
+            "type": "title",
+            "prov": [
+                {
+                    "bbox": [
+                        134.41371154785156,
+                        683.2926025390625,
+                        506.8779296875,
+                        719.3203125
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        63
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "1. The Group emphasizes that the Global Digital Compact (GDC) must be a States-led process and ensure full and equal participation of all States, especially developing countries.",
+            "name": "title",
+            "type": "title",
+            "prov": [
+                {
+                    "bbox": [
+                        90.02400207519531,
+                        609.1101684570312,
+                        544.0444946289062,
+                        664.4803466796875
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        178
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "2. For the Group, the important issues pertaining to digital cooperation remain an inclusive digital economy and literacy, access to digital networks and connectivity, capacity building and technology transfer, investment in digital infrastructures, data protection, data governance, artificial intelligence, avoiding Internet division and fragmentation, countering the proliferation of disinformation and misinformation and to outline shared principles for a digital future for all to achieve the 2030 Agenda for Sustainable Development.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        89.48292541503906,
+                        443.63055419921875,
+                        544.2128295898438,
+                        590.9203491210938
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        538
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "3. The Global Digital Compact should build upon key documents and forums to advance digital cooperation, inter alia, the World Summit on the Information Society (WSIS), in particular the Tunis Agenda and the Geneva Plan of Action, the Internet Governance Forum, and take into account the Secretary-General Roadmap for Digital Cooperation.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        88.96818542480469,
+                        314.87896728515625,
+                        544.0899658203125,
+                        425.2903747558594
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        338
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "4. In order to secure meaningful results, the Global Digital Compact should outline concrete actions and specific initiatives to harness digital technologies to accelerate the achievement of the Sustainable Development Goals (SDGs).",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        89.57318878173828,
+                        222.41815185546875,
+                        543.9102172851562,
+                        296.5103759765625
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        232
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "5. We emphasize the importance of ensuring synergies and avoiding duplication across various entities working on digital cooperation. To this end, the Group would like to draw attention to other important existing platforms for enhancing digital cooperation, such as the International Telecommunication Union (ITU), the WSIS, the Internet Governance Forum, the STI Forum under the ECOSOC,",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        89.99235534667969,
+                        93.8699951171875,
+                        544.5321044921875,
+                        204.44036865234375
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        389
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "and the Commission on Science, Technology, Development (CSTD).",
+            "name": "title",
+            "type": "title",
+            "prov": [
+                {
+                    "bbox": [
+                        108.0199966430664,
+                        682.745361328125,
+                        543.63232421875,
+                        720.21923828125
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        62
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "6. In this regard, we recognize the role of the Commission on Science and Technology for Development as the United Nations focal point for science, technology and innovation for development, as well as the focal point in the system-wide follow-up to the outcomes of the World Summit on the Information Society (WSIS). The negotiations around the Global Digital Compact should not diminish the role of the CSTD.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.02400207519531,
+                        535.7581787109375,
+                        543.8523559570312,
+                        665.5422973632812
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        410
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "7. We note the multilateral and regional initiatives aimed at promoting social prosperity through inclusive participation across the digital economy including inter alia the establishment of the Digital Cooperation Organization.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.02400207519531,
+                        443.4841613769531,
+                        544.0716552734375,
+                        517.2103271484375
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        228
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "8. The Group underscores that the outcomes of the WSIS should be preserved as a guide for digital international cooperation and for Internet governance, since it is based on principles that favor development.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.02400207519531,
+                        352.06109619140625,
+                        543.6600952148438,
+                        425.2903747558594
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        208
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "9. The Tunis Agenda and the Geneva Declaration of Principles and plan of action shall lay down the guiding principles for the development of any new mechanism on digital cooperation, including GDC.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.02400207519531,
+                        259.58697509765625,
+                        544.0899658203125,
+                        333.2303771972656
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        198
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "10. We underline the need to focus on capacity-development policies and sustainable support to further enhance the impact of activities and initiatives at the national and local levels aimed at providing advice, services and support, with a view to building an inclusive, people-centered and development-oriented information society.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        90.02400207519531,
+                        148.7054443359375,
+                        543.927978515625,
+                        241.31036376953125
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        334
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "11. We recognize that no single country or stakeholder, or a small group thereof, should be allowed to monopolize or control the Internet core infrastructure.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        85.58399963378906,
+                        75.47509765625,
+                        543.9869995117188,
+                        131.90313720703125
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        159
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "12. States which have monopoly and dominance in ICT environment, including internet, shall not use ICT advances as tools for containment and suppression of the legitimate economic and technological development of other States. The GDC should reaffirm its firm rejection of the imposition of laws and regulations with extraterritorial impact and all other forms of coercive economic measures, including unilateral sanctions, against developing countries and reiterate the urgent need to eliminate them immediately. The GDC should emphasize that such actions not only undermine the principles enshrined in the Charter of the UN and international law but also severely threaten the freedom of trade and investment. The GDC should therefore call upon the international community to adopt urgent and effective measures to eliminate the use of unilateral coercive economic measures against developing countries. The call to maintain an open, stable and resilient supply chain of global ICT products and services by GDC is necessary.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        85.58399963378906,
+                        407.0193786621094,
+                        545.1443481445312,
+                        702.0437622070312
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        1026
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "13. The Global Digital Compact should reaffirm the right to development.",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        80.94867706298828,
+                        352.3766784667969,
+                        544.0128173828125,
+                        388.43035888671875
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        72
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "14. Private sector and social media platforms should observe rules, norms and policies of the countries where they operate and should be also accountable for their behavior in ICT environment. States may, as appropriate, also consider ways and means to hold them responsible, ensure appropriate measures with a view to making private sector with extra-territorial impacts, including platforms, accountable for their behavior in the ICT environment, and exercise due control over ICT companies and platforms under their jurisdiction.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        81.02400207519531,
+                        167.50482177734375,
+                        544.0899658203125,
+                        333.2303771972656
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        533
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "15. As regards the 'multistakeholder' concept developed by Tunis Agenda, there is a strong need that stakeholders observe national laws, regulations, principles, rules and norms for their responsible behavior in ICT environment.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        81.02400207519531,
+                        75.79833984375,
+                        544.0567016601562,
+                        149.2403564453125
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        228
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "16. The Compact should emphasize the importance of adhering to the fundamental principles of international law, and the purposes and principles of the Charter of the United Nations.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        645.8493041992188,
+                        544.0809326171875,
+                        702.1382446289062
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        181
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "17. The Global Digital Compact should reiterate that the Internet should be open, secure, inclusive, accessible and interoperable.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        590.0728759765625,
+                        543.8941650390625,
+                        627.0221557617188
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        130
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "18. Expressing that WSIS Vision to bridge the digital divides remains unfulfilled, the GDC should provide a new impetus into international cooperation to bridge those divides.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.48550415039062,
+                        515.6558227539062,
+                        544.0687866210938,
+                        571.82958984375
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        175
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "19. We underline that the impacts of the COVID-19 pandemic have exacerbated long-standing inequalities magnified by the digital divides with the risk of these becoming the new face of the development divide. The lack of internet access is most prevalent in developing countries, therefore, it is imperative that, through the GDC, we enhance international cooperation and accelerate the pace of efforts aimed at bridging the digital divides, to help stop and roll back reversals in and turbocharge the realization of the SDGs.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        349.26959228515625,
+                        543.9612426757812,
+                        497.7489929199219
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        525
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "20. We further underline that even those that are currently connected, often have devices with inadequate capacity or slow connectivity, and cannot afford the prices set by service providers which prevents having a continuous and meaningful connectivity to the Internet. Therefore, we shall strive for a level of connectivity that allows users to have a safe, satisfying, enriching and productive online experience at an affordable cost. Connecting the unconnected who are concentrated in developing countries is a global responsibility that requires commitment from all relevant stakeholders.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.33665466308594,
+                        166.55169677734375,
+                        544.9835815429688,
+                        332.0946960449219
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        593
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "21. We recognize that information and communications technologies present new opportunities and challenges and that there is a pressing need to address the major impediments that developing countries face in accessing new technologies, and stress the need to close the digital",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.8769760131836,
+                        73.73443603515625,
+                        544.1024780273438,
+                        147.85955810546875
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        277
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "divides, both between and within countries and including the ruralurban, youth-older persons and gender digital divides, and to harness information and communications technologies for development, and recalling the need to emphasize quality of access to bridge digital and knowledge divides, using a multidimensional approach that includes speed, stability, affordability, language, training, capacity-building, local content and accessibility for persons with disabilities.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        99.02400207519531,
+                        590.864990234375,
+                        544.0499267578125,
+                        719.6803588867188
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        475
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "22. We note with great concern the fact that a gender digital divide persists in women's access to and use of information and communications technologies, including in education, employment and other areas of economic and social development, and in this regard the Global Digital Compact should aim to promote equal participation of women and girls in the digital age.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.58177947998047,
+                        461.4403991699219,
+                        547.7301635742188,
+                        572.6152954101562
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        368
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "23. We reaffirm the commitment of ensuring women's full, equal and meaningful participation in decision-making processes related to information and communications technologies, including policies and approaches to promote women's online safety to facilitate their participation in the digital world, and to address any potential negative impacts of digital technologies on the achievement of gender equality and the empowerment of all women and girls, and committing to eliminating, preventing and responding to all forms of violence against women and girls.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.40215301513672,
+                        277.89569091796875,
+                        545.225341796875,
+                        443.6503601074219
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        558
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "24. The GDC should promote the preservation of Indigenous People's cultures, traditions and knowledge, and address those in most vulnerable situations, including persons with disabilities and older persons.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.7486801147461,
+                        186.08843994140625,
+                        547.0645751953125,
+                        259.67034912109375
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        207
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "25. The Compact should call for resilient, affordable, and accessible digital infrastructure, including minimum digital public infrastructure for digital inclusion and connectivity for all. It should encourage investments to improve capacity of infrastructure to address",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        93.36419677734375,
+                        545.6680908203125,
+                        167.60037231445312
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        271
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "imbalances of connectivity between rural and urban areas of developing countries.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        99.02400207519531,
+                        682.4722900390625,
+                        543.685546875,
+                        720.533203125
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        81
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "26. The Compact should encourage research and development, and the development of viable strategies that could result in further competitiveness, investment and rapid reductions in the cost of information and communications technologies, and urge all relevant stakeholders to address the growing digital divides between and within countries through, inter alia, strengthened enabling policy environments at all levels, legal and regulatory frameworks conducive to increased investment and innovation, public-private partnerships, universal access strategies and international cooperation to improve affordability, education, capacity-building, multilingualism, cultural preservation, investment and technology transfer.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.39802551269531,
+                        444.0628356933594,
+                        545.2771606445312,
+                        665.5411376953125
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        720
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "27. The Global Digital Compact should recognize the detrimental effects of the unilateral coercive measures against developing countries to their ability to connect to the Internet, therefore impeding their peoples from the benefits and potentials that the Internet offers, and that it is important to avoid politicization of technical issues to foster an open, fair, inclusive, and non-discriminatory environment for the development of digital technologies in developing countries.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.4489517211914,
+                        296.89715576171875,
+                        544.0899658203125,
+                        425.2903747558594
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        482
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "28. The Compact should guarantee that no restrictions are imposed on developing countries' access to ICT materials, equipment and technology in order to maintain sustainable development.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.59928894042969,
+                        223.1712646484375,
+                        543.767822265625,
+                        278.0303649902344
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        186
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "29. The GDC should emphasize that all geographic areas should have adequate infrastructure for information traffic.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.1302719116211,
+                        168.3016357421875,
+                        543.5897827148438,
+                        204.44036865234375
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        115
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "30. We also recognize the importance of assisting developing countries, to address the challenges and opportunities in relation to the use of the Internet and e-commerce to develop their international trade capacities, among other things.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        75.24224853515625,
+                        543.7623901367188,
+                        149.2403564453125
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        238
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "31. The GDC should recognize that a lack of access to affordable and reliable technologies and services remains a critical challenge in many developing countries, in particular African countries, the least developed countries, landlocked developing countries, small island developing States, middle-income countries, countries in situations of conflict, post-conflict countries and countries affected by natural disasters, and that all efforts should be deployed to reduce the price of information and communications technologies and broadband access, bearing in mind that deliberate interventions, including through research and development and technology transfer may be necessary to spur the development of lower-cost connectivity options.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.99779510498047,
+                        498.2641296386719,
+                        545.0581665039062,
+                        701.9834594726562
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        743
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "32. A dedicated international mechanism on technology development and transfer for the developing countries is required to ensure that developing countries are also able to harness the benefits offered by advances in science and technology on equal footing with the developed world. The GDC should aim at strengthening assistance from developed countries to developing countries. A special emphasis needs to be placed towards supporting R&D and innovation ecosystems in developing countries.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.58642578125,
+                        332.56298828125,
+                        544.0505981445312,
+                        480.4903564453125
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        491
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "33. International Financial Institutions and other investment partners need to engage for provision of long term and low-interest funds for digital infrastructure development in developing countries.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.74414825439453,
+                        259.85870361328125,
+                        544.1204833984375,
+                        314.870361328125
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        199
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "34. We emphasize that the Global Digital Compact must focus on the pressing need to address the major structural impediments that developing countries face in engaging with and accessing new and emerging technologies.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        167.5557861328125,
+                        544.2128295898438,
+                        241.937255859375
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        217
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "35. The Global Digital Compact should use a people-centered approach, make global digital development more equitable, effective and beneficial to all so as to leave no country and no one behind, and",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        93.77685546875,
+                        543.98046875,
+                        149.48541259765625
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        199
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "should acknowledge the importance of facilitating access to environmentally sound technologies.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        99.02400207519531,
+                        682.8424072265625,
+                        544.0615234375,
+                        720.1300048828125
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        95
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "36. We further recognize the importance of cooperating with and providing support, including financial and technological, to developing countries, in addressing their constraints for accessing new and emerging ICT and services and for the integration thereof into different sectors, such as government services, agriculture, education, health, finance, transport, etc., so as to boost productivity growth and reduce inequalities, and ensuring broadband connectivity to users in rural and remote areas.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.64466094970703,
+                        516.84423828125,
+                        544.0830078125,
+                        665.6121826171875
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        501
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "37. Enhanced international cooperation to help developing countries to bridge the digital divides should take into account the specific needs and conditions of recipient countries and be attuned to national sustainable development strategies, plans, policies and priorities.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.49594116210938,
+                        424.7448425292969,
+                        544.0830078125,
+                        498.8503723144531
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        274
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "38. Financing development cooperation through unearmarked, flexible resources is key for the promotion of national ownership, alignment with national priorities, as well as to leave no one behind and reach the furthest behind first, in the context of efforts to bridge the digital divides.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.41731262207031,
+                        315.5626525878906,
+                        543.9271850585938,
+                        406.93035888671875
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        289
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "39. In this endeavor, all forms of cooperation, including South-South and triangular, should be tapped into to help constitute and support networks of training, and sharing of successful experiences and good practices.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.49300384521484,
+                        223.113037109375,
+                        544.017822265625,
+                        296.5103759765625
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        218
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "40. The Compact should encourage the promotion of digital solutions through access to and use of digital public goods, which may include open-source software, open data, open artificial intelligence models, open standards and open content that adhere to international and domestic laws, in unlocking the full potential of rapid technological change to achieve the Sustainable Development Goals.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.73521423339844,
+                        93.02716064453125,
+                        543.9835815429688,
+                        204.44036865234375
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        394
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "41. We acknowledge that any consideration of tax measures in response to the digital economy should include a careful analysis of the implications for developing countries, taking into account their inputs, with a special focus on their unique needs and capacities. We call upon the United Nations, and all other relevant international organizations, to support countries, particularly developing countries, in building policy and administrative capacity for the effective and efficient taxation of the digital economy.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.71668243408203,
+                        572.6896362304688,
+                        544.0498046875,
+                        720.6077880859375
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        519
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "42. Internet governance should be addressed in a global setup, backed by the UN system, through extensive participation of all States with a multi-stakeholder approach as set out in the WSIS outcomes.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.90728759765625,
+                        498.88323974609375,
+                        544.03466796875,
+                        554.3709716796875
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        200
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "43. The Compact should reaffirm that Internet governance, including the process towards enhanced cooperation should continue to follow the provisions set forth in the outcomes of the summits held in Geneva and Tunis.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.89348602294922,
+                        407.2506408691406,
+                        543.900146484375,
+                        480.4903564453125
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        216
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "44. The GDC should acknowledge the relevance of the contributions of the Internet Governance Forum on public policy issues relating to the Internet.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        334.0426330566406,
+                        543.7474975585938,
+                        388.8450012207031
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        148
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "45. The Compact should ensure in a more transparent and effective manner the maximized participation of developing countries, including their stakeholders, to provide them with the opportunity to reflect their interests in policy and decision-making processes relating to Internet governance, in accordance with paragraphs 65 and 68 of the Tunis Agenda.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.80926513671875,
+                        204.8822021484375,
+                        545.1251831054688,
+                        315.12823486328125
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        353
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "46. The GDC should commit to multilateral democratic and transparent approaches to digital governance to facilitate a more just, equitable and effective governance system.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.25769805908203,
+                        130.7425537109375,
+                        543.7249755859375,
+                        186.742431640625
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        171
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "47. The GDC should promote technical assistance and cooperation to enable all States acquire the necessary capabilities and tools for equal and effective participation in Internet governance.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        664.8877563476562,
+                        544.07568359375,
+                        720.4552001953125
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        192
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "48. We also recognize the importance of enhanced cooperation to enable Governments, on an equal footing, to carry out their roles and responsibilities in international public policy issues pertaining to the Internet.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        572.703369140625,
+                        543.7334594726562,
+                        646.9808349609375
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        216
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "49. We further recognize the need to strengthen regional cooperation processes towards the harmonization of digital policy frameworks.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        517.1123046875,
+                        543.7296142578125,
+                        554.4254760742188
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        134
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "50. The Compact should recall that under para 34 and 35 of Tunis Agenda, Internet Governance involves public policy and technical issues as well as multistakeholder participation, each within their respective roles and responsibilities, for the development and applications of norms, principles, rules, decisions and programmes that shape the evolution of the Internet.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        388.8750915527344,
+                        544.0723876953125,
+                        498.92156982421875
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        369
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "51. The GDC should emphasize the importance of preserving and promoting the unity and interoperability of the Internet and avoiding its fragmentation. In this connection, the GDC should recognize and further promote standardization and harmonization efforts at the regional and global levels.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        277.90887451171875,
+                        544.0899658203125,
+                        370.07037353515625
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        293
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "52. The GDC should reaffirm the sovereign right of States to determine their national rules for Internet usage and their prerogative to govern the digital sphere within their jurisdiction, in conformity with international law.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        186.4093017578125,
+                        544.0758056640625,
+                        259.67034912109375
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        226
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "53. Data is becoming an increasingly important economic and strategic resource. It can generate significant social value for development as well as new economic opportunities and higher productivity and growth. If well managed, data can help to overcome some global development challenges.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        75.25537109375,
+                        544.5952758789062,
+                        167.8370361328125
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        289
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "54. Currently, there is no multilaterally agreed approach on data governance. The GDC should draw attention to the importance of multilateral spaces to further address data governance issues, including through greater cooperation and harmonization.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        627.9380493164062,
+                        543.8856201171875,
+                        702.02392578125
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        248
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "55. The GDC should encourage the relevant UN agencies and multilateral efforts in the formulation of international rules on data governance and protection reflecting the views and interests of all countries.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.21399688720703,
+                        553.9356689453125,
+                        543.7174682617188,
+                        610.2162475585938
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        208
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "56. The GDC should encourage efforts to address the potential harms and negative impacts of the misuse of data.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        498.9696350097656,
+                        543.889404296875,
+                        536.5555419921875
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        112
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "57. The GDC should recognize that there is a need to strengthen international cooperation to enable cross-border data flows to maximize development gains. There is an urgent need to develop a common approach to global data flows that work for both people and the planet.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.45925903320312,
+                        388.9814758300781,
+                        544.7830200195312,
+                        481.0160217285156
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        270
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "58. The GDC should recognize the need to address the multiple challenges in the use of data, such as the growing digital divide, including the data divide; the lack of relevant skills and capacities and disparate international legal and regulatory frameworks and incipient domestic legal and regulatory frameworks.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.61004638671875,
+                        277.4591064453125,
+                        546.4061889648438,
+                        370.55145263671875
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        315
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "59. Dealing with data and associated opportunities and challenges will require a global response, with the equal participation of all countries.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.44450378417969,
+                        222.87823486328125,
+                        546.25927734375,
+                        259.97064208984375
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        145
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "60. The GDC should boost enhanced international cooperation, including technology transfer, knowledge and expertise sharing, capacity building, technical assistance, and educational and professional training and correlated resources, so that developing countries can share in the social and economic benefits of the data economy and are equipped to effectively regulate data protection, use, and flows in the face of rapid technological change.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        75.1783447265625,
+                        546.212158203125,
+                        204.47760009765625
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        444
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "61. We emphasize that the growing trend of misinformation and disinformation on online platforms, is exacerbating social discord, discrimination, and hate speech. The Compact should highlight the global concerns about the rapid spread and proliferation of disinformation, the need for the dissemination of factual, timely, clear, accessible, multilingual and evidence-based information, and the need for all relevant stakeholders to address the challenge of misinformation and disinformation.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.44318389892578,
+                        554.2657470703125,
+                        544.0899658203125,
+                        701.7925415039062
+                    ],
+                    "page": 12,
+                    "span": [
+                        0,
+                        492
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "62. We note the challenges faced by States in preventing and combating the use of information and communications technologies for criminal purposes, and emphasizing the need to continue international cooperation in this regard and to reinforce technical assistance and capacity-building activities, at their request, for the prevention, prosecution and punishment of such use in accordance with national and international law. We note with appreciation the progress of the work of the Ad Hoc Committee to Elaborate a Comprehensive International Convention on Countering the Use of Information and Communications Technologies for Criminal Purposes, and encourage Member States to continue to engage in the work of the Ad Hoc Committee, and further encourages the participation of relevant stakeholders, in line with the road map and mode of work of the Ad Hoc Committee approved at its first session.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.32305908203125,
+                        278.8426513671875,
+                        544.47021484375,
+                        535.6903076171875
+                    ],
+                    "page": 12,
+                    "span": [
+                        0,
+                        899
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "63. Security, safety and stability of Internet must be maintained, without jeopardizing efforts to achieve sustainable development. International cooperation through strengthening multilateralism in this area is highly important.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        185.78131103515625,
+                        544.0511474609375,
+                        259.67034912109375
+                    ],
+                    "page": 12,
+                    "span": [
+                        0,
+                        229
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "64. The GDC should avoid duplicating the work of the Open-ended Working Group on security of and in the use of information and communications technologies.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        112.912109375,
+                        544.0341186523438,
+                        167.60037231445312
+                    ],
+                    "page": 12,
+                    "span": [
+                        0,
+                        155
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "65. The Compact can explore the possibility for development of norms, principles and regulatory standards on the use of AI to achieve and accelerate sustainable development with the effective participation of developing countries while also recognizing the need for assistance in capacity building in those countries.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        627.930908203125,
+                        544.0559692382812,
+                        720.3215942382812
+                    ],
+                    "page": 13,
+                    "span": [
+                        0,
+                        318
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "66. We stress that the use of artificial intelligence in the field of information and communication technologies should take into account as appropriate the Declaration of Principles of the World Summit on the Information Society (WSIS).",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.51409912109375,
+                        535.84716796875,
+                        544.0367431640625,
+                        609.2803344726562
+                    ],
+                    "page": 13,
+                    "span": [
+                        0,
+                        238
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "67. The GDC should recognize the need to harness the potential of information and communications technologies, frontier technologies and new and emerging technologies as critical enablers of sustainable development and to overcome digital divides, and stress that capacitybuilding for developing countries for the productive use of such technologies should be given due consideration in the implementation of the 2030 Agenda and the Addis Ababa Action Agenda of the Third International Conference on Financing for Development.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.77915954589844,
+                        370.76263427734375,
+                        543.9434814453125,
+                        517.2103271484375
+                    ],
+                    "page": 13,
+                    "span": [
+                        0,
+                        527
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "68. The GDC should consider and evaluate the need for an enhanced international technology framework more aligned with the SDGs, which could inter alia focus on offering preferential access for developing countries to relevant advanced technologies, developing their productive capacities, ending discriminatory restrictions and promoting global research and development of scientific breakthroughs relevant to the 17 SDGs.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        68.75584411621094,
+                        222.45550537109375,
+                        547.2769165039062,
+                        352.1838684082031
+                    ],
+                    "page": 13,
+                    "span": [
+                        0,
+                        423
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "69. The GDC should recognize also that harnessing the benefits of digital technologies for inclusive, equitable and quality education and lifelong learning opportunities requires the advancement of connectivity, capacities and content, and acknowledging the need for access to broadband Internet and technology devices, digital inclusion and literacy, and to incorporate digital competencies into the education system for the capacity-building of educators and students.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.62604522705078,
+                        75.70458984375,
+                        547.6677856445312,
+                        204.44036865234375
+                    ],
+                    "page": 13,
+                    "span": [
+                        0,
+                        471
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "70. The Compact may support the implementation of UNESCO's Recommendation on Open Science which is increasingly recognized as a critical accelerator for the achievement of the United Nations Sustainable Development Goals.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        628.357421875,
+                        543.7260131835938,
+                        701.3203125
+                    ],
+                    "page": 14,
+                    "span": [
+                        0,
+                        221
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "71. We recognize the important role that information and communications technologies can play in protecting the environment and addressing climate change.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.67487335205078,
+                        553.458984375,
+                        544.0899658203125,
+                        610.0772705078125
+                    ],
+                    "page": 14,
+                    "span": [
+                        0,
+                        154
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "72. The Global Digital Compact should be instrumental for integrated growth of digital economy and real economy, in which ICT and digital technology be accessible for all countries, while all nations should benefit from its advantages and benefits, as well as creating an open, fair, just and non-discriminatory environment for digital development, thereby boosting stronger global digital economic cooperation and giving full play to the role of the digital economy as an engine to global economic recovery and development.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        387.6529541015625,
+                        544.3485107421875,
+                        535.9906005859375
+                    ],
+                    "page": 14,
+                    "span": [
+                        0,
+                        524
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "73. The GDC should recognize the role of digital transformation and innovation, including in government services, in promoting sustainable economies and contributing the achievement of sustainable development.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.02400207519531,
+                        296.7671203613281,
+                        543.7340087890625,
+                        370.0840148925781
+                    ],
+                    "page": 14,
+                    "span": [
+                        0,
+                        209
+                    ]
+                }
+            ]
+        }
+    ],
+    "page-dimensions": [
+        {
+            "height": 792,
+            "page": 1,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 2,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 3,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 4,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 5,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 6,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 7,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 8,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 9,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 10,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 11,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 12,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 13,
+            "width": 612
+        },
+        {
+            "height": 792,
+            "page": 14,
+            "width": 612
+        }
+    ],
+    "page-footers": [],
+    "page-headers": [],
+    "references": [],
+    "tables": [],
+    "conversion_settings": {
+        "model_pipeline": {
+            "clusters": [
+                {
+                    "type": "LayoutSegmentationModel",
+                    "name": "LayoutSegmentationModel",
+                    "version": "NA"
+                }
+            ],
+            "page": [],
+            "normalization": [],
+            "tables": [
+                {
+                    "type": "TableStructureModel",
+                    "name": "TableStructureModel",
+                    "version": "NA"
+                }
+            ]
+        }
+    },
+    "version": 2
+}

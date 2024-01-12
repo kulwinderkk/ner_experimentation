@@ -1,0 +1,10 @@
+
+$_{●}$ Lead by example by committing to data protection approaches that consider responsibility for public actors and/or avoid broad exemptions for those actors.
+$_{●}$ Collection and processing of data by governments should be subject to clear and meaningful safeguards:
+$_{·}$ Any exemptions must be narrowly defined, subject to the principles of necessity, proportionality, and legality consistent with international human rights standards.
+$_{·}$ Governments should commit to strict standards for access to user data, such as independent judicial authorization, avenues for oversight and transparency, and remedial measures.
+$_{·}$ Governments should provide notice to surveillance targets when notification won't unduly impact investigations, and avoid undue restrictions on companies providing notice.
+$_{·}$ Governments should not only enable company transparency around government demands, but law enforcement and executive bodies should also model transparency measures to complement these company efforts.
+$_{●}$ Governments should address potential legal loopholes that can enable government procurement of user data via third parties.
+$_{●}$ Governments should avoid introducing legal frameworks enabling direct access. Where these authorities exist already, they should at minimum: (i) provide sufficient authorization procedures, supervision, and remedy so as to ensure that surveillance conducted is proportional to the purpose for which it is authorized and provide effective guarantees against abuse; (ii) allow companies to disclose information about interception and access to data on their networks; and (iii) ensure that such access is disclosed to the subject in a timely manner if that data is used in any civil, administrative, or criminal proceeding.
+ 1325 G St. NW, Suite 500, Washington, DC 20005 • GlobalNetworkInitiative.org • info@GlobalNetworkInitiative.org 13

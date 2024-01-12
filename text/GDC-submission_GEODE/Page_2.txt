@@ -1,0 +1,9 @@
+
+About GEODE
+The three coordinators for the submission are members of the GEODE Center. 'GEODE' stands for Geopolitics of the Datasphere.
+GEODE is a multidisciplinary research and training center dedicated to the analysis of strategic and geopolitical issues raised by the digital revolution. The Center is supported by the University of Paris 8 (France) and has been awarded the 'Center of Excellence' label by the French Ministry of the Armed Forces as part of the Higher Education Pact. It is also the largest recipient of the William and Flora Hewlett Foundation's Cyber Initiative program.
+The emerging notion of Datasphere allows the analysis of strategic issues related to cyberspace but also to the geography of data flows and data control, the understanding of informational space, the mapping of topological networks, the fusion of geolocalized and non-spatialized data.
+The scientific ambition of the researchers at GEODE is twofold.
+On the one hand, the researchers use the resources of the datasphere for geopolitical analysis. In other words, they develop tools to collect, process and exploit the large masses of data relating to the datasphere. They also call for the development of new methods for mapping physical spaces based on the fusion of spatialized and non-spatialized data.
+On the other hand, the researchers at GEODE study the datasphere as a geopolitical object in its own right, with an analysis of the defense and security issues that they cover, in order to feed a comprehensive strategic reflection that takes into account the strong entanglement of civil, industrial, and military issues. This objective includes the development of a specific cartography to better understand and represent the datasphere.
+ 2

@@ -1,0 +1,2369 @@
+{
+    "_name": "Global Digital Compact Submission by GEODE - Geopolitics of the Datasphere",
+    "_type": "pdf-document",
+    "bitmaps": [],
+    "description": {
+        "title": "Global Digital Compact Submission by GEODE - Geopolitics of the Datasphere",
+        "logs": [
+            {
+                "agent": "CCS",
+                "type": "parsing",
+                "comment": "CCS v9.3.0 parsing of documents",
+                "date": "2024-01-01T19:29:19.870939+00:00"
+            }
+        ]
+    },
+    "equations": [],
+    "figures": [
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    584.888,
+                    596,
+                    842
+                ],
+                "min": [
+                    192.9584808349609,
+                    638.761962890625,
+                    400.4834289550781,
+                    705.7448120117188
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.2575697898864746,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        192.9584808349609,
+                        638.761962890625,
+                        400.4834289550781,
+                        705.7448120117188
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        },
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    0,
+                    518.85431,
+                    401.54999
+                ],
+                "min": [
+                    73.25566101074219,
+                    81.0447998046875,
+                    495.9951477050781,
+                    388.1821594238281
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.9630881547927856,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        73.25566101074219,
+                        81.0447998046875,
+                        495.9951477050781,
+                        388.1821594238281
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        }
+    ],
+    "file-info": {
+        "#-pages": 11,
+        "document-hash": "5c7df136c4f2f057c16551f2bad79714c29cad4fe4b42a4cfa9d52a828e1270b",
+        "filename": "GDC-submission_GEODE.pdf",
+        "page-hashes": [
+            {
+                "hash": "76eb9fc884a9adc33311c86ab3fe8b997d52a9eaab2a45b874ad3f1a301061c8",
+                "model": "model",
+                "page": 1
+            },
+            {
+                "hash": "08d6694269559700216c903259011ce2d823b47d37d173dd061eefb70cb70cf8",
+                "model": "model",
+                "page": 2
+            },
+            {
+                "hash": "5a1311af8a69de7bcee759721562cc564bd2e3750061522773495eaaefa52699",
+                "model": "model",
+                "page": 3
+            },
+            {
+                "hash": "7ae6a8961bf63ced22e84f0dec343f8fcfbece1cdd7bfc5c55465f40bc92e17d",
+                "model": "model",
+                "page": 4
+            },
+            {
+                "hash": "90bc8e120e08b109b2f5dff7b4a1b250009dfa16e1d805f2222f942304c8c4f6",
+                "model": "model",
+                "page": 5
+            },
+            {
+                "hash": "cc8084fb1bd90a1baee4ce8f92633bf5bb53b04549fdf2b9c89abd33ecd1c56f",
+                "model": "model",
+                "page": 6
+            },
+            {
+                "hash": "628e12ac18470fd21bf4e65cfe494c84144b47d9c68c7417c60621de28a33e09",
+                "model": "model",
+                "page": 7
+            },
+            {
+                "hash": "c02a3352d5faf82b231ca2a76c69300dbc523919fdad8cfeb072973c5fbfbfc5",
+                "model": "model",
+                "page": 8
+            },
+            {
+                "hash": "f6b1469a0274a44cd03af82eaddf71ba4b746eec46b18b8cb26b1805aed0632a",
+                "model": "model",
+                "page": 9
+            },
+            {
+                "hash": "74c21b7f7b0b1a0f40a98a9e51eb3f2301cc360976c735ed1c31fb02ce7bc73a",
+                "model": "model",
+                "page": 10
+            },
+            {
+                "hash": "e8b04c8002c75587dc74efe39a25eb9c7948aee039e587b1e1720137403ee9a8",
+                "model": "model",
+                "page": 11
+            }
+        ],
+        "filename-prov": "00000.zip",
+        "description": {}
+    },
+    "footnotes": [],
+    "main-text": [
+        {
+            "$ref": "#/figures/0",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "text": "Global Digital Compact Submission by GEODE-Geopolitics of the Datasphere",
+            "name": "title",
+            "type": "title",
+            "prov": [
+                {
+                    "bbox": [
+                        121.71794891357422,
+                        542.4630126953125,
+                        477.7586669921875,
+                        585.106201171875
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        72
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "April 2023",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        273.3709716796875,
+                        519.8379516601562,
+                        321.6102294921875,
+                        531.1373291015625
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "About GEODE",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        254.3067626953125,
+                        755.550048828125,
+                        340.2883605957031,
+                        768.8113403320312
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        11
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The three coordinators for the submission are members of the GEODE Center. 'GEODE' stands for Geopolitics of the Datasphere.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.94257354736328,
+                        719.9149780273438,
+                        524.1157836914062,
+                        744.5029296875
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        124
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "GEODE is a multidisciplinary research and training center dedicated to the analysis of strategic and geopolitical issues raised by the digital revolution. The Center is supported by the University of Paris 8 (France) and has been awarded the 'Center of Excellence' label by the French Ministry of the Armed Forces as part of the Higher Education Pact. It is also the largest recipient of the William and Flora Hewlett Foundation's Cyber Initiative program.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.36289978027344,
+                        634.7350463867188,
+                        524.3864135742188,
+                        702.7149658203125
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        456
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The emerging notion of Datasphere allows the analysis of strategic issues related to cyberspace but also to the geography of data flows and data control, the understanding of informational space, the mapping of topological networks, the fusion of geolocalized and non-spatialized data.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.01374053955078,
+                        580.0000610351562,
+                        524.2791137695312,
+                        619.7700805664062
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        285
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The scientific ambition of the researchers at GEODE is twofold.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.6571044921875,
+                        553.7549438476562,
+                        353.1096496582031,
+                        564.7549438476562
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        63
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "On the one hand, the researchers use the resources of the datasphere for geopolitical analysis. In other words, they develop tools to collect, process and exploit the large masses of data relating to the datasphere. They also call for the development of new methods for mapping physical spaces based on the fusion of spatialized and non-spatialized data.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.89712524414062,
+                        484.77508544921875,
+                        524.9226684570312,
+                        538.65673828125
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        354
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "On the other hand, the researchers at GEODE study the datasphere as a geopolitical object in its own right, with an analysis of the defense and security issues that they cover, in order to feed a comprehensive strategic reflection that takes into account the strong entanglement of civil, industrial, and military issues. This objective includes the development of a specific cartography to better understand and represent the datasphere.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.64994812011719,
+                        401.54998779296875,
+                        526.4303588867188,
+                        469.6783142089844
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        438
+                    ]
+                }
+            ]
+        },
+        {
+            "$ref": "#/figures/1",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/0"
+        },
+        {
+            "text": "Executive summary",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        242.619873046875,
+                        755.5501708984375,
+                        352.5739440917969,
+                        768.6578979492188
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        17
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "One of the popular beliefs about cyberspace, particularly from an international law point of view, is that it is a lawless space. This view is unwarranted despite the lack of a universal treaty regarding that matter. Undoubtedly, a variety of international law instruments can be applied to cyberspace and to digital activities in general. All the fields from international law should be leveraged to do so: international human rights law, international humanitarian law, international criminal law, international trade law, space law, etc.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.58660125732422,
+                        661.8900756835938,
+                        525.188720703125,
+                        744.4537353515625
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        540
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Still, two caveats should be considered. First, due to challenging legal debates between States regarding the digital sector, many non-state initiatives have emerged to propose interpretations of international law, or even new standards. Second, the legal value of the hundreds of instruments that may apply to digital activities varies greatly.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.14421844482422,
+                        596.9098510742188,
+                        526.8002319335938,
+                        650.6449584960938
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        345
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Undoubtedly, the lack of an international treaty (notwithstanding the Council of Europe's Convention against Cybercrime) is one explanation for this large number of instruments and initiatives. Alongside the classic sources of international law (treaties, customary law, general principles of law), these instruments and initiatives have a varying normative scope, are seldom legally binding and range from simple reports and guidelines to unilateral acts or secondary legislation enacted by international organizations, including non-conventional concerted acts. Their vast majority cannot be relied upon to hold private or public digital actors responsible in the event of violation of their obligations.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.012939453125,
+                        489.19500732421875,
+                        524.9205322265625,
+                        585.6649780273438
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        706
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "While this variety of instruments and initiative contribute to providing a framework for digital activities, a clarification of the applicable law should be provided at an international level.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.13093566894531,
+                        452.70501708984375,
+                        524.6444702148438,
+                        477.95013427734375
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        192
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The emergence of new technologies has profound political, social and economic implications, both positive and negative, that should be addressed by international law. Several challenges and opportunities arise from the use of digital technologies: relationship between public and private actors, political instrumentalization of international law on digital issues (right of access to the Internet, content control, data protection) and endemic digital inequalities.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.25621032714844,
+                        373.48016357421875,
+                        524.25048828125,
+                        441.6036682128906
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        466
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The adequacy of existing legal rules to address these challenges is constantly assessed in the light of the impact of new technological developments. Existing academic and policy discussions often debate whether current international legal rules are clear, precise and comprehensive enough to keep up with the rapid pace of digitalisation. It is no longer time to simply raise this question and reiterate the principle of the applicability of international law to cyberspace. It is now time to provide concrete and operational answers that will meet the regulatory needs of the digital sector.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.08794403076172,
+                        280.00994873046875,
+                        524.4259643554688,
+                        362.34735107421875
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        593
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "In accordance with the principles of Internet governance recognised by the World Summit on the Information Society, non-state actors' views must be taken into account in the formation and application of law. Operational mechanisms that will enable effective multi-stakeholder and multilateral governance should be envisioned to enable balanced relationships between private and public actors. Cooperation and co-regulation processes that include all stakeholders should be fostered, rather than strictly dividing roles between public actors dealing with public policy and private actors dealing with technical issues.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.01176452636719,
+                        172.2948760986328,
+                        524.696533203125,
+                        268.76507568359375
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        617
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/1"
+        },
+        {
+            "text": "Submission",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        260.7693176269531,
+                        753.150146484375,
+                        334.3202819824219,
+                        768.239501953125
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Connect all people to the internet",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        70.0237808227539,
+                        700.6998291015625,
+                        257.42999267578125,
+                        715.6234130859375
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        34
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Restrictions to internet access can violate both international human rights law as well as treaty provisions related to the rule of law and democratic processes. While not specifically enshrined in the international legal instruments, the requirement that States should not interfere with people's access to the Internet can be addressed, among others, through freedom of expression and right to information safeguards.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.2319107055664,
+                        623.7235107421875,
+                        527.9735107421875,
+                        686.99755859375
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        419
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "To this end, internet restrictions should be considered not merely as technical measures affecting the logical or physical layers of the networks, but also as a tool used to impair the means of expression of individuals (see below, Avoid internet fragmentation). Therefore, internet shutdowns and content blocking may constitute violations of the principles contained in several international human rights instruments, in particular article 19 (right to freedom of expression, the scope of which is clarified by General Comment 34 of the Human Rights Committee) and article 21 (right of assembly) of the International Covenant on Civil and Political Rights (ICCPR). Regional conventions for the protection of human rights generally include similar provisions.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.92382049560547,
+                        510.7134704589844,
+                        528.727783203125,
+                        611.753173828125
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        759
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "This perspective is supported by the practice of several organs and international institutions, notably resolutions adopted by the Human Rights Council on 'The promotion, protection and fulfillment of human rights on the Internet' (A/HRC/32/L.20, June 27th, 2016). The Council condemns measures that seek to ' intentionally prevent or disrupt access to or dissemination of information online in violation of international human rights law, and calls upon all States to refrain from and cease such measures ', relying on a substantial number of secondary legislation not specifically related to the issue of Internet access. Several UN Special Rapporteurs have recognized the fundamental nature of the right of access to the Internet through the prism of freedom of expression or the right to peaceful assembly. However, this right of access to the internet should not be construed as a duty of States to provide access without any charge.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.03358459472656,
+                        372.539794921875,
+                        527.4820556640625,
+                        498.561767578125
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        938
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Key commitments:",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        70.00498962402344,
+                        347.33978271484375,
+                        162.44764709472656,
+                        360.0911560058594
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        16
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-States should refrain from restricting people's access to the internet, in order to comply with relevant human rights instruments.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        88.48734283447266,
+                        316.056396484375,
+                        525.90966796875,
+                        339.4206848144531
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        131
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-States should recognize that access to the internet is a driver for development and must be safeguarded.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        88.8499984741211,
+                        283.81396484375,
+                        526.219482421875,
+                        307.43060302734375
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        105
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Avoid internet fragmentation",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        70.25440979003906,
+                        233.55770874023438,
+                        233.2346954345703,
+                        248.86810302734375
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        28
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Since the early 2010s, several States have introduced policies that prevent their citizens from accessing a global and open Internet. Some of them have even gone as far as trying to demarcate their digital space, creating borders of a sort through the development of dedicated domestic infrastructures and, thus, isolating themselves more or less from the rest of the digital universe. Other States resort to data relocation processes, with the aim of making it a condition for digital companies to continue their activities that data be processed on their territory. Cybersecurity issues, disinformation, data breaches, personal data protection and national security requirements have been used as justifications to create de facto intranets.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.16856384277344,
+                        114.72284698486328,
+                        527.0036010742188,
+                        219.82537841796875
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        743
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "This results in an 'internet fragmentation' (or internet segmentation), in other terms the creation of a technical border around their territory, ranging from the discrimination of certain categories of",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.28764343261719,
+                        76.32246398925781,
+                        526.6181030273438,
+                        102.060302734375
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        202
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/2"
+        },
+        {
+            "text": "information to the complete blocking of data flows to and from the outside world. As a result, internet users from a specific country may be totally prevented from interacting with users based abroad and may be unable to access certain content, websites or applications.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.05081939697266,
+                        731.5499877929688,
+                        525.7186889648438,
+                        768.9498901367188
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        270
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Internet fragmentation should not only be seen as a set of technical measures that create borders within the logical or physical layers of the networks. In most cases, it will also restrict the means of communication of individuals, and thus their capacity to meet, consult, mobilize, inform and be informed at a global scale. Internet fragmentation notably includes creating bans on global social media platforms or search engines with the intent to prevent citizens from accessing content that is of vital interest to them and may help them keep informed. This type of measure can be a way for governments to control the digital activities carried out 'on' their territory, to isolate their country from the rest of the network and even to create blackout situations for populations in the case of internet shutdowns. Users often use VPNs to bypass these restrictions. However, such practices have been deemed unlawful by several legislations across the globe, in order to discourage them, while most users are unaware of how to safely use VPNs.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.00750732421875,
+                        574.3500366210938,
+                        529.5989990234375,
+                        717.6982421875
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        1047
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Thus, internet fragmentation is harmful from the point of view of international human rights. It can be an indirect way of restricting individuals' digital activities and violating principles set out in several international instruments.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.25446319580078,
+                        522.7496948242188,
+                        526.2988891601562,
+                        561.148193359375
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        237
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Key commitments:",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        69.92031860351562,
+                        497.54998779296875,
+                        161.26283264160156,
+                        510.0334777832031
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        16
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-States should promote a global, open and neutral internet.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        105.41492462158203,
+                        473.41937255859375,
+                        381.5289611816406,
+                        486.1683349609375
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        59
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-Security issues should not be used as a pretext to infringe on human rights by limiting users' access to global content.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        106.03116607666016,
+                        440.6824035644531,
+                        526.0471801757812,
+                        463.96099853515625
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        121
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-Companies should be encouraged no to contribute to internet fragmentation.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        105.36163330078125,
+                        419.45306396484375,
+                        463.1007995605469,
+                        431.5804138183594
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        75
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Protect data",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        70.16632080078125,
+                        373.6080017089844,
+                        139.24887084960938,
+                        387.65020751953125
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        12
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Digital data has become an inescapable resource that raises contradictory issues: protection of human rights and privacy, national security, economic development, data circulation, digital sovereignty, application of the law to the multiple uses of data, etc. The increase in the volume of data and the diversification of its uses, in particular with artificial intelligence (AI), raises new questions in terms of governance of this data.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.9528579711914,
+                        298.37322998046875,
+                        527.1724243164062,
+                        363.2679748535156
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        438
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The interpretation of privacy provisions will be of particular importance in the future, because it is a fundamental right and one of the elements of the legal regime for the protection of personal data. This right is at the heart of complex situations such as mass and targeted surveillance by public and private actors, interception and storage of personal data to fight cybercrime, extraterritoriality of data protection regimes, and principles framing this protection (right to be forgotten, right to rectification, principle of consent to the processing of one's personal data, purpose limitation, data minimisation, accuracy, lawfulness, transparency, lawfulness, data storage limitation, confidentiality and integrity, etc.).",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.23831939697266,
+                        182.7731475830078,
+                        526.9296875,
+                        287.4290771484375
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        732
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The diversification of data implies a better identification of the types of existing data to adapt the regulation of their use. For instance, one may wonder if digital data is an asset under international humanitarian law during armed conflict, international trade law or in the law of diplomatic immunities.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.21927642822266,
+                        133.1730499267578,
+                        524.8856201171875,
+                        171.87567138671875
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        308
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Since an international legal regime is currently lacking, there is a tendency to adopt laws at regional, national or even sub-national level, which include provisions with extraterritorial scope. This increases",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.76265716552734,
+                        96.77265930175781,
+                        525.3104248046875,
+                        121.89361572265625
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        210
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/3"
+        },
+        {
+            "text": "the risk of conflict of laws and creates difficulties, particularly in cross-border data flows and mutual legal assistance.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.30986022949219,
+                        744.7496948242188,
+                        526.7291870117188,
+                        769.5614624023438
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        123
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Collecting, sharing and selling digital data, in particular personal data, has both positive and negative human rights implications. Practices such as targeted advertising, content monitoring, private and public surveillance, spying, data collection for criminal investigations, internet filtering, use of biometric data, etc. can endanger privacy and freedom of expression. But digital data and AI can also contribute to improving the human condition. Thus, it is necessary to steer regulation towards a virtuous use of data.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.45347595214844,
+                        655.5499877929688,
+                        530.4913330078125,
+                        733.3489990234375
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        526
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Key commitments",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        70.30171203613281,
+                        632.3502807617188,
+                        157.42306518554688,
+                        643.9500732421875
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        15
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-Data should be defined and categorized more precisely (personal data, sensitive data, security data, etc.) to adapt their legal regime according to their nature and use. Many efforts have been made in the field of personal data protection but many other data should also be regulated.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        88.82024383544922,
+                        578.86865234375,
+                        527.0148315429688,
+                        624.6577758789062
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        285
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-With regard to personal data, the principles set out in the GDPR offer standards of protection which could be extended internationally to facilitate the circulation of data while preserving the protection of individuals. However, the interpretation of these standards needs to be harmonized in order to avoid conflicts of extraterritorial laws and regulatory fragmentation.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        87.86241149902344,
+                        524.2965087890625,
+                        527.4369506835938,
+                        569.2572021484375
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        374
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-In view of the evolution of the uses of data, whether for commercial or surveillance purposes, by private or public actors, the personal data protection regime should be refocused on the protection of privacy, which is its foundation, and no longer be developed as an autonomous regime, whose existence would be justified solely for commercial or security purposes.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        87.86798858642578,
+                        468.111083984375,
+                        527.0769653320312,
+                        514.1513671875
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        366
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-It is important to limit the risks of conflicts of law resulting from the extraterritorial scope of national laws by developing standards or even rules of international law.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        88.47789001464844,
+                        435.21307373046875,
+                        527.6122436523438,
+                        458.7030334472656
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        174
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-Data protection regimes should be developed to improve the human condition, reduce the digital divide, and facilitate the achievement of the SDGs.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        88.8499984741211,
+                        402.1917419433594,
+                        527.096923828125,
+                        425.70672607421875
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        147
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Apply human rights online",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        70.2925033569336,
+                        363.9502868652344,
+                        220.85592651367188,
+                        378.9240417480469
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        25
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Digital activities should not be implemented without taking into account their impact on human rights, the rule of law and the democratic values enshrined in the UN Charter and related legal instruments. Business innovation concerns should be matched with the systematic use of impact assessments and critical risk assessments when developing technological tools and digital processes that may infringe on human rights. Similarly, national security concerns or public order considerations should not justify disproportionate infringements on individual rights.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.9854507446289,
+                        271.51531982421875,
+                        525.9052124023438,
+                        350.0088195800781
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        560
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "To date, there is no specific framework for digital activities that is truly universal in scope, covering, for example, the protection of personal data, automated decision-making processes or online expression. The lack of a unique framework is likely to be leveraged by some States in order to exploit digital tools for the purpose of monitoring individuals and restricting their rights. Yet, despite the lack of a universal digital-specific instrument, resorting to pre-existing legal instruments is a reliable way to protect individuals and community's rights in the digital sphere.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.17505645751953,
+                        180.3151397705078,
+                        526.990478515625,
+                        259.30169677734375
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        585
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Indeed, in practice, a majority of United Nations Member States recognize the application of pre-existing rules of international law in the digital sphere, including those derived from international law instruments (United Nations Charter, International Covenants of 1966, regional charters for the protection of human rights, etc.). International human rights law is the most obvious and most visible way of addressing practices on the Internet, whether it be to regulate the activities of public actors (States, local authorities, international organizations) or those of private actors (companies, non-profit",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.25643157958984,
+                        89.11543273925781,
+                        527.1141967773438,
+                        167.69793701171875
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        611
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/4"
+        },
+        {
+            "text": "organizations). The reassertion of the States' positive obligations in this respect appears particularly necessary in the face of the infringements caused by private actors.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.44351196289062,
+                        744.7496948242188,
+                        525.9378051757812,
+                        769.7582397460938
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        173
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "In this respect, it would seem vital for the international community to recognize that human rights, as enshrined in the relevant legal instruments, apply in the digital sphere, particularly online. The statements of actors refuting this vision are at odds with the actual practice, including international and regional case law.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.91179656982422,
+                        679.9498901367188,
+                        527.1846313476562,
+                        731.6952514648438
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        329
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Key commitments:",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        69.88790893554688,
+                        654.7496948242188,
+                        161.5739288330078,
+                        666.6966552734375
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        16
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-States should recognize that human rights, as enshrined in the relevant legal instruments, apply in the digital sphere.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        105.12384033203125,
+                        619.8182983398438,
+                        525.6085205078125,
+                        644.1954345703125
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        120
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-Impact assessments processes and critical risk assessments should be implemented when developing technological tools and digital processes that may infringe on human rights.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        106.04988098144531,
+                        585.1526489257812,
+                        525.3009033203125,
+                        609.64013671875
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        174
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-States should refrain from restricting individuals' legitimate access to technological tools.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        106.08040618896484,
+                        562.2698974609375,
+                        520.858154296875,
+                        574.4896850585938
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        94
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Accountability for discrimination and misleading content",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        69.80876159667969,
+                        512.4825439453125,
+                        390.42724609375,
+                        527.4000244140625
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        56
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Digital platforms are, at the same time, spaces for the promotion of human rights and democratic processes and the tools that may lead to their erosion.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.80844116210938,
+                        472.84783935546875,
+                        527.7617797851562,
+                        498.5018310546875
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        152
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Initially, these platforms were mostly recreational or informative in nature. Over time, they have acquired a critical role as spaces for the civil society to mobilize or to expose regimes that do not respect fundamental rights. Today, they have become an indispensable tool for almost half of mankind: close to three billion individuals use the services offered by tech companies, most notably social media. However, the continuous stream of content published by users generates numerous abuses that can only be addressed by moderation mechanisms (deleting content, marking it, downgrading it or evicting users). Discriminatory comments, calls to hatred or violence, defamation, privacy breaches or disinformation operations are among the harmful behaviors that platforms have to regulate in real time.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.76365661621094,
+                        355.24725341796875,
+                        529.10302734375,
+                        460.0819091796875
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        803
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "However, acting against unlawful content comes with challenges. The first is that content moderation is carried out by companies on the basis of specific standards that do not always comply with laws and regulations, particularly in terms of human rights, and that are applied on an international scale without adapting to local cultural contexts. The second is that, when it is not automated, the moderation activity is entrusted to employees or subcontractors who may be based in remote regions of the world and who are generally ill-equipped to determine when content is legitimate or not.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.13831329345703,
+                        264.04754638671875,
+                        527.3474731445312,
+                        342.86737060546875
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        592
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "These two factors can lead to zealous or hasty moderation practices, likely to constitute an infringement of freedom of expression. On the other hand, some content that should be moderated because it violates human rights or undermines public order or democratic processes remains online as a result of commercial decisions. States should take the necessary measures, in accordance with international law, to oversee the moderation activities of platforms and make them accountable. It is essential that content violating fundamental rights be treated according to due diligence standards and that freedom of expression not be subject to disproportionate restrictions.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.15046691894531,
+                        159.6476593017578,
+                        527.88134765625,
+                        250.94354248046875
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        668
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Key commitments:",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        70.35941314697266,
+                        134.4474639892578,
+                        161.5334930419922,
+                        146.85772705078125
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        16
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-States should address disinformation and misinformation practices in coordination with companies, civil society and users.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        106.0208969116211,
+                        96.34197998046875,
+                        525.58251953125,
+                        121.5179443359375
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        123
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/5"
+        },
+        {
+            "text": "-States should take the necessary measures, in accordance with international law and their national laws, to oversee the moderation activities of platforms and make them accountable for their shortcomings.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        105.06727600097656,
+                        738.1057739257812,
+                        527.4281005859375,
+                        772.276611328125
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        205
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-Online moderation policies should always be interpreted and implemented by companies and State actors in accordance with relevant international human rights instruments.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        105.7356185913086,
+                        704.444091796875,
+                        526.4063110351562,
+                        727.4313354492188
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        170
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-States should not misuse the prevention of disinformation as a pretext for disproportionate restrictions on freedom of expression",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        105.7190170288086,
+                        670.0159301757812,
+                        526.0504760742188,
+                        693.6341552734375
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        130
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Regulation of artificial intelligence",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        70.42587280273438,
+                        619.7764892578125,
+                        261.8152770996094,
+                        634.5040283203125
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        37
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "No longer only embedded in products and industrial systems, artificial intelligence (AI) has recently made a breakthrough in our everyday life through becoming accessible and directly usable by end-users. In doing so, computing power and algorithms are more than ever processes and tools that are impacting our lives, our economies and our democracies. AI can bring innovation and progress for individuals and democracy, by offering new modes of expression and production. Considering the global challenges that our societies are facing, AI provides new means to address them, particularly in the domains of public health and the environment. AI-based products and services can also play a role in strengthening the rule of law and the enforcement of international law, including through monitoring and evaluating the implementation of States' international commitments.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.4473876953125,
+                        491.74139404296875,
+                        528.2608642578125,
+                        609.9866943359375
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        870
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "However, the development of AI is not without risks to the fundamental rights and freedoms of individuals, the rule of law, and international development. Indeed, AI learning models require large volumes of data, which process can disregard the legal protection attached to the data. Biases from data processing are multiplied, creating new and often underestimated risks of discrimination. In a context where non-state actors, especially companies, are the main holders of this data, the under-representation of certain regions of the world and the concentration of capacities in the hands of a few actors present a risk for cultural and social diversity and international development. Thus AI contributes to the reinforcement of the digital divide and the confinement of the individual through the prism of data. Finally, because of its very operating processes, the impact of AI on the environment is becoming a major issue that remains unevaluated.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.29037475585938,
+                        346.54217529296875,
+                        529.169921875,
+                        478.0665588378906
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        952
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The multiplicity of AI uses undeniably constitutes a difficulty when tackling its regulation. The unknowns accompanying its consequences on societies and fundamental rights must be seen as alerts guiding each step of the development of a technology, a product or a service based on AI. The open sourcing of AI systems and the conditions for their reuse should be given particular attention in order to encourage development that is consistent with international law, and in particular international human rights law. As such, AI thus constitutes a new area in which States' positive human rights obligations find their way, and in a potentially new dimension.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.32587432861328,
+                        240.9416046142578,
+                        527.1561279296875,
+                        332.9026184082031
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        659
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "In recent years, numerous normative initiatives have emerged to regulate the development and use of AI. They tend to set a minimum of commitments for AI, regardless of sector-specific needs. Yet, sectoral approaches might be needed to better tackle the challenges. Similarly, an autonomous approach to AI should not lead to its omission from forums dealing with other subjects, notably cybersecurity and the environment. In both cases, the ethical approach is not sufficient in itself. It is also interesting to note that despite an ethical approach to AI regulation, the content of the instruments discussed is often very legal. The choice of legal over ethical should be preserved.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.22425079345703,
+                        135.3415069580078,
+                        526.4381713867188,
+                        227.11053466796875
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        683
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Key commitments:",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        70.33926391601562,
+                        103.06562805175781,
+                        161.0990753173828,
+                        115.5220947265625
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        16
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-Any development of an AI product or service should only be conducted after a careful risk assessment and should be compatible with human rights frameworks. In case of high or",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        106.41886901855469,
+                        73.1634521484375,
+                        525.993408203125,
+                        95.36346435546875
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        175
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/6"
+        },
+        {
+            "text": "undetermined risks for human rights, the development of an AI product or service should be prohibited or only conducted under high scrutiny from public authorities.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        122.58844757080078,
+                        750.0470581054688,
+                        525.7507934570312,
+                        771.9160766601562
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        164
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-States should set up independent authorities tasked with overseeing the development and uses of AI by state and non-state authorities. Those authorities should be given appropriate means and resources. They should not exclude the recourse to judicial authorities in case rights and obligations are being abused.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        106.8499984741211,
+                        699.0966796875,
+                        526.3428955078125,
+                        741.7313232421875
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        312
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-Next to the international consensus on accountability, responsibility and transparency as core principles guiding the development and use of AI, States and non-state actors should cooperate on the concrete implementation of these principles through the exchange of best practices in order to engage in more precise regulation.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        106.68631744384766,
+                        648.0349731445312,
+                        526.34912109375,
+                        690.875732421875
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        327
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-Independent research on the biases and negative impact of AI technologies and services should be conducted. State and non-state actors should thus cooperate with researchers to develop evidence-based research.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        106.8499984741211,
+                        607.0641479492188,
+                        526.0532836914062,
+                        639.98095703125
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        210
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Digital commons as a global public / Good Internet governance",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        70.66466522216797,
+                        559.8863525390625,
+                        420.7142639160156,
+                        573.07666015625
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        61
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "As early as the World Summit on the Information Society in Geneva and Tunis (2003 and 2005), stakeholders called for multilateral and multi-stakeholder governance. These governance modalities have constantly been called for (Net Mundial Declaration, S\u00e3o Paulo, 2014; UNGGE and United Nations OEWG reports on international cybersecurity) but have not, however, made it possible to respond to the challenges of the digital era or to prevent deadlocks in international negotiations.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.15547180175781,
+                        484.65106201171875,
+                        529.6578369140625,
+                        549.0508422851562
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        480
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The issues at stake in international negotiations are essentially geopolitical but also have a legal impact. States are competing to impose different conceptions of Internet governance: some of them see the digital sphere as an essentially economic opportunity, some focus on human development and others give priority to state security. These conflicting conceptions hinder the application and adaptation of international law to digital activities. The geopolitical challenges surrounding Internet governance also affect the model of cyberspace itself, contributing to its fragmentation, the integration or non-integration of infrastructures, the inclusion or exclusion of the informational dimension. Internet governance depends on the way in which the Internet and, more generally, the digital object are described: critical infrastructure, global risk, common good. Each of these qualifications entails the application of a particular legal regime and the involvement of specific governance actors. Thinking of the Internet as a common good requires us to consider the global management of its resources, namely data, on the model of the International Seabed Authority, for example. But unlike other international regimes for managing the commons, the resources constituted by digital data are not limited; on the contrary, they are growing exponentially. Existing regimes must therefore be adapted to the specificities of digital data.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.04849243164062,
+                        278.65057373046875,
+                        529.906982421875,
+                        475.52459716796875
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        1440
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The consequences of these conceptual oppositions are manifold: States cannot reach a consensus on what good governance should be to ensure the security and stability of cyberspace; the logic of coalition between certain States is reinforced, contributing to a greater fragmentation of regulation and the exclusion of certain States from the scope of the discussion; certain issues, such as cybersecurity, cannot be settled or are settled in a roundabout way from an economic angle, for example (see the OECD's work on this point).",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.4411392211914,
+                        191.4508819580078,
+                        526.9939575195312,
+                        270.2615966796875
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        530
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Key commitments:",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        69.86872863769531,
+                        170.2511749267578,
+                        161.46697998046875,
+                        182.53125
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        16
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-Strengthen multilateralism by including developing States and by promoting dialogue between the different conceptions of cyberspace and applicable international law.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        124.8499984741211,
+                        139.477783203125,
+                        524.359130859375,
+                        162.7989501953125
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        166
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "-Implementing in a more concrete way multistakeholderism through the notion of co-regulation: the balance between stakeholders is not necessarily the same according to the subjects to be regulated; the modalities of cooperation between public and private actors may vary according to the fields of action.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        124.15990447998047,
+                        85.33331298828125,
+                        526.921142578125,
+                        130.20361328125
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        305
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/7"
+        },
+        {
+            "text": "-Encourage cooperation between international institutions dealing with Internet governance to avoid regulatory fragmentation. Current governance tends to distinguish between subjects and bodies, whereas these subjects (technical or political) are increasingly intertwined. Cooperation mechanisms between the institutions (public, private, hybrid) concerned must be established.",
+            "name": "list-item",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        124.51872253417969,
+                        716.5465698242188,
+                        527.6458129882812,
+                        771.5436401367188
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        377
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/8"
+        },
+        {
+            "text": "Contact",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        275.6225280761719,
+                        755.5504150390625,
+                        319.6706237792969,
+                        768.7718505859375
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        7
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Coordinators:",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.28547668457031,
+                        733.1144409179688,
+                        137.96316528320312,
+                        746.7789306640625
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        13
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Aude GERY, Post-doctoral Researcher at GEODE, gery.aude@gmail.com",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.18445587158203,
+                        710.8703002929688,
+                        400.4679260253906,
+                        722.3843994140625
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        65
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Val\u00e8re NDIOR, Law Professor, Universit\u00e9 de Brest (France), Researcher at GEODE, Member of the Institut universitaire de France, ndior@univ-brest.fr",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.80504608154297,
+                        674.3800659179688,
+                        524.30322265625,
+                        700.3363647460938
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        149
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Anne-Thida NORODOM, Law Professor, Universit\u00e9 Paris Cit\u00e9 (France), Researcher at GEODE, anne-thida.norodom@u-paris.fr",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        69.67937469482422,
+                        637.8898315429688,
+                        524.535888671875,
+                        663.8468627929688
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        119
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Website : https://geode.science/en/home-2/",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        202.26943969726562,
+                        615.6447143554688,
+                        393.0407409667969,
+                        626.6447143554688
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        42
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "page-footer",
+            "type": "page-footer",
+            "$ref": "#/page-footers/9"
+        }
+    ],
+    "page-dimensions": [
+        {
+            "height": 842,
+            "page": 1,
+            "width": 596
+        },
+        {
+            "height": 842,
+            "page": 2,
+            "width": 596
+        },
+        {
+            "height": 842,
+            "page": 3,
+            "width": 596
+        },
+        {
+            "height": 842,
+            "page": 4,
+            "width": 596
+        },
+        {
+            "height": 842,
+            "page": 5,
+            "width": 596
+        },
+        {
+            "height": 842,
+            "page": 6,
+            "width": 596
+        },
+        {
+            "height": 842,
+            "page": 7,
+            "width": 596
+        },
+        {
+            "height": 842,
+            "page": 8,
+            "width": 596
+        },
+        {
+            "height": 842,
+            "page": 9,
+            "width": 596
+        },
+        {
+            "height": 842,
+            "page": 10,
+            "width": 596
+        },
+        {
+            "height": 842,
+            "page": 11,
+            "width": 596
+        }
+    ],
+    "page-footers": [
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        518.2672729492188,
+                        44.10980224609375,
+                        524.4295,
+                        55.9232177734375
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "text": " 2",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        518.6260986328125,
+                        44.213135,
+                        525.1260375976562,
+                        55.213135
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "text": " 3",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        518.7858276367188,
+                        44.212891,
+                        527.3561401367188,
+                        56.689453125
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "text": " 4",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        518.5197143554688,
+                        44.212891,
+                        526.3497314453125,
+                        56.18450927734375
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "text": " 5",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        518.85431,
+                        44.18170166015625,
+                        526.6691284179688,
+                        56.1705322265625
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "text": " 6",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        518.27001953125,
+                        44.212891,
+                        526.7019653320312,
+                        56.11590576171875
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "text": " 7",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        518.6292114257812,
+                        44.212891,
+                        526.5130004882812,
+                        56.523681640625
+                    ],
+                    "page": 8,
+                    "span": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "text": " 8",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        518.6527709960938,
+                        44.212891,
+                        526.984130859375,
+                        56.378662109375
+                    ],
+                    "page": 9,
+                    "span": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "text": " 9",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        512.6975708007812,
+                        43.83111572265625,
+                        524.6888427734375,
+                        55.6956787109375
+                    ],
+                    "page": 10,
+                    "span": [
+                        0,
+                        3
+                    ]
+                }
+            ],
+            "text": " 10",
+            "type": "page-footer"
+        },
+        {
+            "prov": [
+                {
+                    "bbox": [
+                        512.4264526367188,
+                        44.08544921875,
+                        524.5740356445312,
+                        55.212891
+                    ],
+                    "page": 11,
+                    "span": [
+                        0,
+                        3
+                    ]
+                }
+            ],
+            "text": " 11",
+            "type": "page-footer"
+        }
+    ],
+    "page-headers": [],
+    "references": [],
+    "tables": [],
+    "conversion_settings": {
+        "model_pipeline": {
+            "clusters": [
+                {
+                    "type": "LayoutSegmentationModel",
+                    "name": "LayoutSegmentationModel",
+                    "version": "NA"
+                }
+            ],
+            "page": [],
+            "normalization": [],
+            "tables": [
+                {
+                    "type": "TableStructureModel",
+                    "name": "TableStructureModel",
+                    "version": "NA"
+                }
+            ]
+        }
+    },
+    "version": 2
+}

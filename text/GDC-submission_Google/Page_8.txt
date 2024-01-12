@@ -1,0 +1,16 @@
+
+developers, deployers, academics, civil society, governments, and users, including individuals, businesses, and other organizations) must work together to get AI right including in the following areas:
+● Responsible approaches to AI development and deployment of AI systems
+● Data and privacy practices that protect privacy and enable benefits for people and society (e.g. sharing traffic and public safety data)
+● Robust AI infrastructure and cybersecurity to mitigate security risks
+● Regulations that encourage innovation and safe and beneficial uses of AI and avoid misapplications, misuse, or harmful uses of AI
+● Cross-community collaboration to develop standards and best practices
+● Sharing and learning together with leaders in government and civil society
+● Practical accountability mechanisms to build trust in areas of societal concern
+● Investment in AI safety, ethics, and sociotechnical research
+● Growing a larger and more diverse community of AI practitioners to fully reflect the diversity of the world and to better address its challenges and opportunities
+We would encourage the Global Digital Compact to reflect such practices to ensure that the Compact is indeed aligned with shared global values.
+6) Content Responsibility (SDG 16)
+Core to our mission is providing trustworthy content and opportunities for free expression across our platforms, while limiting the reach of misinformation/disinformation, violent extremism, and other harmful content. These are not easy issues, which is why we support collaborative efforts that enable companies like Google to continue the work we are already doing to develop clear and transparent policies and enforce them without regard to political party or point of view. We work to raise up authoritative sources, and reduce the spread of harmful content, in recommendations and elsewhere. Teams across the company work in a variety of roles to help develop and enforce our policies, monitor our platforms for abuse, and protect users from everything from account hijackings and disinformation or harassment campaigns to terrorist content and inauthentic activity. Beyond our own platforms, Google's Jigsaw team is also developing new approaches to proactively protect the integrity of information across the internet through initiatives like disinformation 'prebunking', and building tools that allow other platforms and organizations to identify and remove toxic comments or violent extremist content before it spreads. Jigsaw's tools are free and open-sourced, and its research is regularly published to benefit the broader ecosystem.
+Recommendations
+Already, multiple international and regional fora have elevated this workstream. We would strongly encourage any GDC initiative or UN Code of Conduct on Public Integrity and Information to reference and draw upon the following pre-existing initiatives to minimize duplication and ensure any global regulatory framework is fit for purpose. Sp ecifically, we would like to draw attention to the Global Principles on Digital Safety, developed by WEF which

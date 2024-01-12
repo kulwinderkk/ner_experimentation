@@ -1,0 +1,966 @@
+{
+    "_name": "GDC-submission_Global-Initiative-Digital-Empowerment.pdf",
+    "_type": "pdf-document",
+    "bitmaps": [],
+    "description": {
+        "logs": [
+            {
+                "agent": "CCS",
+                "type": "parsing",
+                "comment": "CCS v9.3.0 parsing of documents",
+                "date": "2024-01-01T19:30:14.917240+00:00"
+            }
+        ]
+    },
+    "equations": [],
+    "figures": [],
+    "file-info": {
+        "#-pages": 7,
+        "document-hash": "73502a17caceb6abd0e78799d05a57bc66eec8cddea69c39f7a429b780a84ba3",
+        "filename": "GDC-submission_Global-Initiative-Digital-Empowerment.pdf",
+        "page-hashes": [
+            {
+                "hash": "7f488941cdd2649375977dbce0ae09daee37e569f95ab205b125db9a0412b906",
+                "model": "model",
+                "page": 1
+            },
+            {
+                "hash": "8f065c136cc2cfdc9e914bc696cd5742a507db820221d1899291d015d36729e0",
+                "model": "model",
+                "page": 2
+            },
+            {
+                "hash": "848b1c12b143297f53d4e27542e403e90c889addf0eda3588d54642b95f3ba4e",
+                "model": "model",
+                "page": 3
+            },
+            {
+                "hash": "bc2cd6c36ca1b3d38293fec783c8357e0ce8ebc3912463f6cacbd4e274f8b2ee",
+                "model": "model",
+                "page": 4
+            },
+            {
+                "hash": "cbac9631e54399b2f9e35aa02fdd371b16cdd510e26f36c72f6c3594604eec41",
+                "model": "model",
+                "page": 5
+            },
+            {
+                "hash": "766b56a955c0371bd52a91cda476888dab5fe728e9cf127390356422f94d5d18",
+                "model": "model",
+                "page": 6
+            },
+            {
+                "hash": "02c47cfc75f6a32feca17b3e315815029d61da4888c29388a73a03e8a2a27089",
+                "model": "model",
+                "page": 7
+            }
+        ],
+        "filename-prov": "00000.zip",
+        "description": {}
+    },
+    "footnotes": [],
+    "main-text": [
+        {
+            "text": "Making Humane Markets Work in the Digital Age Submission to the Global Digital Compact",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        114.24109649658203,
+                        732.522705078125,
+                        483.3614807128906,
+                        769.8744506835938
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        86
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The Global Initiative for Digital Empowerment ('GIDE') is committed to ensuring citizens become active participants in the digital economy, irrespective of their country's level of development. While we recognise that different countries deal with different digital obstacles, we argue that many can be better solved by re-balancing the current power structures of online interactions. This can be achieved through strong representation rights and institutions, by applying to digital interactions long-standing fiduciary rules of the offline world, and by ensuring that artificial intelligence actors embed in their algorithms human-first and human-needs features to their tools.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.51889038085938,
+                        574.4071044921875,
+                        530.9248046875,
+                        715.3895263671875
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        680
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The GIDE considers that a humane digital ecosystem, and a human-centred digital regime, must position people and their dignity at the centre of governance models; but also recognise that humans are social creatures who derive life meaning in conducting personal relationships and belonging to social groups, both of their own choosing and with high expectations of freedom. We are committed to collaborating with the United Nations to achieve human empowerment and celebrate the inclusion of the Global Digital Compact (GDC) as part of Our Common Agenda.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.77079010009766,
+                        447.8583679199219,
+                        527.4508056640625,
+                        556.8150634765625
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        554
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Human empowerment can also become a driver for innovation and economic growth. While we celebrate that most legislations around the globe embed long-standing principles of digital governance (OECD, 1980) as well as international instruments on human rights and recent legislative development in leading countries provide a first shift toward human empowerment, we consider that further work needs to be done to achieve the key proposals of the United Nations 'Our Common Agenda' report.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.62779235839844,
+                        320.987548828125,
+                        529.5140380859375,
+                        430.12091064453125
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        486
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Indeed, the GDC should consider first-generation legislation such as the General Data Protection Directive ('GDPR') and the California Consumer Privacy Act (USA) the first step into citizen empowerment; and recent legislative development, or second-generation legislation, in Europe (EU EIDAS, Data Act, Data Governance Act, etc) and elsewhere (eg. Blueprint for an AI Bill of Rights (USA) a second building block for a humane-centred digital governance regime.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0,
+                        209.8243408203125,
+                        529.2482299804688,
+                        302.92364501953125
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        461
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Looking into the future, the GDC should aim to deliver a third building block, one that ensures that every group, community, and country can create frameworks and institutions that allow citizens to gain effective control over who accesses data about them and under what terms. For that reason, we propose the GDC adopts and promotes the following as the guiding principles for the next generation of digital governance regimes:",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0,
+                        98.9744873046875,
+                        530.3158569335938,
+                        191.79150390625
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        428
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "1) Humane-centred approach to digital governance: the GIDE is committed to working with the GDC to change the digital economy data-centric for a citizens-first approach, making people and their safety the ultimate focus of protection, and not just data about them. Such a model for a digital governance regime should be preferred as it maximises people's dignity as human beings. It also provides broader protection to a number of human digital and non-digital rights, not only the right to online privacy or freedom of speech. Much of the GIDE's approach to a person-focused approach to digital governance can be found in our 2022 report Empowering Digital Citizens.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.40352630615234,
+                        597.42626953125,
+                        530.0535888671875,
+                        737.8701171875
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        667
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "There are other reasons to recommend that the GDC adopts a human-centric approach to digital governance. Indeed, placing people at the centre of digital transformation injects transparency and accountability into the ecosystem; and higher levels of trust are likely to raise the amount of data willingly shared by citizens, which is vital to foster horizontal innovation, more competition and fair digital markets.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.79074096679688,
+                        486.1015930175781,
+                        530.9363403320312,
+                        579.18359375
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        414
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The GDC should be an active advocate of human-centred digital regimes, and position humans and their needs at the centre of their digital policies. The relevance of people as key members of the digital society should also be extended to the decision-making processes and architectural schemes, echoing the openness, inclusiveness and decentralisation features of the multistakeholder regime for Internet governance.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.5068359375,
+                        375.0916442871094,
+                        530.6528930664062,
+                        468.10302734375
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        415
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "2) Control over data: We are committed to working with the GDC to find proper mechanisms to raise the level of protection to citizens in the digital arena, which includes novel threats to human experience and life. These are best achieved when individuals have adequate control over how data about them is collected, stored, shared and processed.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.81470489501953,
+                        280.00836181640625,
+                        528.994873046875,
+                        357.1083679199219
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        346
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The GIDE recommends the GDC avoids discussions around personal ownership of data. We observe that the full legal debate about ownership is a complex one. Rather, we argue for a different path. Policymakers should focus on the right of individuals to control who has access to their personal data and on what terms such data is used.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.84645080566406,
+                        184.13006591796875,
+                        532.0184326171875,
+                        261.9329833984375
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        332
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The GDC should also not rely on policies that mostly confer protection to humans after they have entered digital interactions or focused mostly (solely) on data about them. Such a rationale is flawed not only because these policies find legal origin in adhesion agreements where clauses are binary, non-negotiable and non-amendable by consumers; but also because they follow the fictitious assumptions that individuals interact with (or have knowledge of) every entity that holds information",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.98635864257812,
+                        73.00225830078125,
+                        530.7752075195312,
+                        166.9901123046875
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        491
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "about them; and that the separation between online and offline activities truly exists. In contrast, a fair digital ecosystem must protect humans and their digital and non-digital rights well before they are at the gates of digital interaction, knowingly or not.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.26599884033203,
+                        708.4652099609375,
+                        529.760986328125,
+                        770.0631103515625
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        262
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "In particular, the GIDE urges the GDC to consider that the expansion of datafication of human experience is no longer confined to direct and external activities undertaken by data subjects. Indeed, technologies around emotion detection, affect recognition, neurotechnologies as well as the internet of things and the internet of bodies, show how an ever-growing number of technologies have begun to more actively reach information about consumers that were not envisioned by the current digital regime.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.7554702758789,
+                        581.3255615234375,
+                        530.8994140625,
+                        690.26416015625
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        502
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Moreover, an equally large number of companies are more aggressively obtaining data and inferences of personal data through indirect methods. These go well beyond contractual relations with third parties that do not have any commercial relationship or obligations with people, such as data brokers; and include new technologies such as external reality technologies and smart cities that collect and process passive data, automatically and autonomously, that can hardly be considered personal when first collected, as it can be anonymised or encrypted, but nevertheless become personal in much later stages when used to feed machine learning algorithms. In other words, technologies that do not necessarily collect personal data but that can obtain the same insight and the same inferences about people.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.75322723388672,
+                        391.22216796875,
+                        530.8150634765625,
+                        563.31494140625
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        803
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Empowering citizens to control how their data is processed and under what terms will also empower small companies and start-ups companies to innovate by countering the anti-competitive effects of vast information lakes held by the market's leaders.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.5186767578125,
+                        310.7789306640625,
+                        530.5009765625,
+                        372.9064636230469
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        248
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Legislation in Europe (Data Act, Digital Governance Act) has already taken the first step to solve this issue. For example, our proposals are in line with the creation of data representatives and data altruism (which we call Data Commons). However, without proper economic and social incentives, these legislations may not only be gamed by the biggest players, but they will have little real applicability.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.5835189819336,
+                        215.81683349609375,
+                        527.41455078125,
+                        294.206298828125
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        406
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "For that reason, we recommend the GDC develop policies that advocate for open data repositories allowing a wider variety of companies to get decentralised, high-quality and ongoing sources of information. The GDC should spearhead this transition as it fosters better, faster and equitable innovation, more jobs and ultimately economic growth.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.4911880493164,
+                        120.85845947265625,
+                        531.4761962890625,
+                        198.3359375
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        342
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "A human-centred digital governance regime carries de facto governance changes, most importantly, leaving the ability of technologies to protect individual rights as a",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.30015563964844,
+                        73.03265380859375,
+                        529.0515747070312,
+                        103.1240234375
+                    ],
+                    "page": 3,
+                    "span": [
+                        0,
+                        166
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "secondary feature. As outlined below, the primary engine to achieve human empowerment is to allow citizens to collectively negotiate the terms and conditions of data processing made by skilled representatives.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.27456665039062,
+                        723.9398193359375,
+                        530.7875366210938,
+                        769.607421875
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        209
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "3) Best interest of the data subject: The digital economy will likely achieve its full potential by drawing from long-standing principles of asymmetric relations of the offline world. As in any other market, the needs and interests of consumers must be properly weighed and considered.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0,
+                        645.0825805664062,
+                        528.8219604492188,
+                        706.1328125
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        285
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "In consequence, the GDC should promote policies that ensure governments and companies conduct their business operations with the best interest of consumers as a cornerstone. Such an approach brings higher protection and respect to digital and non-digital human rights, which is also in line with the GDC's common agenda report of the Secretary-General, by renewing social contracts through anchored human rights.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0,
+                        533.3930053710938,
+                        528.660400390625,
+                        626.969482421875
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        412
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Moreover, this policy goal also benefits consumers as much as private entities. Indeed, as outlined above, acting in the consumer's best interest will help a vast number of organisations enjoy the many benefits attached to high levels of trust between market participants. Medical and scientific research for the public good, for example, are likely to obtain better results when they receive higher quantity and quality of data directly from citizens.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0,
+                        422.3212890625,
+                        529.3757934570312,
+                        515.98095703125
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        452
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Acting in the best interest of digital consumers also supposes a higher level of online safety and well-being. While we celebrate legislation around the Christchurch call, we argue that a human-first regime for digital governance, citizens' effective control over data and a general fiduciary rule of care, loyalty and good faith to digital interactions would allow such legislation to more efficiently serve their purpose and urge the DGC to be at the forefront of these changes.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.94994354248047,
+                        310.90325927734375,
+                        528.8292846679688,
+                        405.0964660644531
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        480
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Finally, a human-centred model for digital governance raises the level of participation of all citizens in the digital economy, which also includes non-users or vulnerable groups. Considering that almost half of the world's population has no internet access, including 1.3 billion children aged 3 to 17 years old and that many of them are also socially or economically vulnerable, the GDC should promote approaches to digital governance that maximise citizen participation. For that reason, we recommend that the GDC leads button-up and multi-stakeholder processes of policymaking to ensure that no one is left behind and ensures that everyone gets a seat at the table.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0,
+                        168.748291015625,
+                        527.5662841796875,
+                        293.7923583984375
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        669
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "For the reasons above is that the GIDE invites the GDC to actively promote efforts to include the best interest of people as the core legal concept in the next generation of digital governance regulations around the globe.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.95989990234375,
+                        105.1070556640625,
+                        525.6661376953125,
+                        150.72998046875
+                    ],
+                    "page": 4,
+                    "span": [
+                        0,
+                        222
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Current legislation, particularly in Europe, is already rising to such a challenge. The European Declaration for Digital Rights and Principles, the Artificial Intelligence Act and the Digital Wallet Recommendations has already put citizens at the centre of digital transformation. Moreover, the best interest of data subjects will likely be one of the guiding principles of the upcoming review of the GDPR.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.97193908691406,
+                        691.9703369140625,
+                        527.875,
+                        769.6778564453125
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        406
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "4) Right of Representation: One of the biggest challenges for policymakers is to provide measures to better balance the extreme power, skills and knowledge asymmetries between consumers and digital technologies providers. This makes it impossible for citizens to meaningfully control information about them. This failure is further exacerbated by the high levels of market dominance of the largest digital firms. For that reason, the GDC should promote the development of strong rights of association and representation, and allow citizens to participate in the digital economy collectively, through skilled digital representatives.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0,
+                        548.8955688476562,
+                        528.8829345703125,
+                        675.008544921875
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        632
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The idea behind this principle is based on both economic and social reasons. Indeed, although we consider the GDC should avoid debates around the economic value of data, the reality is most data is currently processed as if it was the means of production for goods and services. Put on economic terms, the GIDE is committed to working with the GDC to develop policies that allow citizens to collectively negotiate access to the resource rather than its location.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0,
+                        437.896728515625,
+                        528.0156860351562,
+                        531.941650390625
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        462
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Finally, the GDC should lead efforts to find the necessary architecture and legal environment for the proper landing of collective digital representation, including key challenges such as tailoring and improving existing mechanisms to the digital ecosystem, independence, reachability and legal limits, accountability and oversight.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        72.0,
+                        358.9580383300781,
+                        528.4022216796875,
+                        421.0030517578125
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        332
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "5) Artificial Intelligence Ethics: The humans-first digital governance regime proposed by the GIDE requires ensuring that Artificial Intelligence ('AI') actors adopt and promote such framework, not only in the application of AI systems to personal data, but also in the collection and use of personal data in machine learning datasets which underpins its development. This becomes particularly important given the accelerated speed of AI technology and the fact that many of these tools can autonomously be fed with publicly available information.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.94300079345703,
+                        231.6802978515625,
+                        528.5245361328125,
+                        341.15380859375
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        547
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "As mentioned above, the concept of bottom-up and multi-stakeholder development is crucial to achieving a broad AI ethical framework, as their procedures are considered to be the gold standard for social inclusion of vulnerable groups. This gains exponential importance when considering that many algorithms currently have some sort of bias against minorities and other vulnerable groups. Examples in the Internet regime of governance also speak of other valuable goals to consider, such as a higher level of trust and reliability in the system.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.73941040039062,
+                        105.11920166015625,
+                        529.650390625,
+                        214.20458984375
+                    ],
+                    "page": 5,
+                    "span": [
+                        0,
+                        544
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Importantly, the GDC should advocate for the inclusion of these principles into AI systems as it helps to solve one of the most troublesome issues around data collection. Indeed, collective agreements reached through rights of representation can enjoy automatic oversight when AI actors adopt a human-centred approach to algorithms.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.98957061767578,
+                        692.1658935546875,
+                        528.4655151367188,
+                        769.9332275390625
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        332
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "For example, non-personal data, while being increasingly easily converted into personal data but bound to a much lower level of legal protection, can more easily be moved and shared between stakeholders. However, embedding human-needs-first features in algorithms would ensure a higher level of protection for citizens, irrespective of whether or when these companies convert such non-personal data into personal data.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.99335479736328,
+                        581.4761962890625,
+                        530.309814453125,
+                        675.00146484375
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        418
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The GIDE also recognises that achieving AI's full potential for societal good in the long term requires that civilians operate with a higher level of digital literacy. For that reason, we believe that the GDC must work with other relevant stakeholders to develop manuals and guidelines to be included in school curriculums to ensure that new generations have the necessary skills to fully enjoy the digital society. Importantly, digital civic education will require maintaining our official digital information accurate and up to date.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.9566879272461,
+                        453.9519958496094,
+                        530.095458984375,
+                        563.31494140625
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        535
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "To develop its proposals on AI ethics, the GIDE recommends the GCD to lean on already existent policy and legal documents (eg. the G20 and OECD AI principles and the European and United States AI acts). However, further work needs to be done at a policy level to avoid situations where intended or unintended outcomes put citizens, especially the most vulnerable, at risk. The GIDE considers that the GDC, as a United Nations body, should spearhead the development of the next set of AI principles.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.38460540771484,
+                        327.4180908203125,
+                        529.4284057617188,
+                        436.8491516113281
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        498
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "6) Final remarks:",
+            "name": "subtitle-level-1",
+            "type": "subtitle-level-1",
+            "prov": [
+                {
+                    "bbox": [
+                        71.24275970458984,
+                        295.689208984375,
+                        165.0919952392578,
+                        310.2574462890625
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        17
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The GIDE is committed to working with GDC and developing policies that ensure that every country, irrespective of their level of economic development, can create legal frameworks and institutions that allow citizens to gain effective control over who accesses data about them and under what terms. This goal can be achieved by adopting a human-centred approach to digital governance, made through effective control of data and exercised by skilled representatives; as well as the adoption of these changes by artificial intelligence actors.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.60762786865234,
+                        168.68115234375,
+                        530.6880493164062,
+                        277.8704833984375
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        540
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The GIDE also celebrates that all the above-outlined principles already exist in other governance regimes and recognises many institutions and advocates have raised them as possible solutions to issues around data management. However, when applied in isolation, none of them would make a permanent impact on current overreaching data practices. On the contrary, they will most likely support and",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.8048095703125,
+                        72.93890380859375,
+                        532.2105102539062,
+                        150.873046875
+                    ],
+                    "page": 6,
+                    "span": [
+                        0,
+                        395
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "reaffirm them as features of the current digital governance regime. In consequence, we encourage the GDC to treat the above outlined as indissolubly intertwined principles.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        70.77259063720703,
+                        724.190185546875,
+                        530.9590454101562,
+                        769.8674926757812
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        172
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "A human-centred model for digital governance that enable people to collectively negotiate who accesses data about them and under what terms, coupled with fiduciary obligations for data holders, and the adoption of these principles by AI actors will likely help to regulate not only the tech industry but also traditional and established markets that have embraced technification. For example, when heavily unregulated markets such as smart health tracking devices (e.g. smartwatches and fitness apps) and online decentralised lending Apps, are bound by a human-needs first oversight most of the imbalances and abuses they carry will heavily disappear.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.7533950805664,
+                        581.07568359375,
+                        529.340087890625,
+                        706.1328125
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        651
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Finally, the GIDE recognises that human empowerment and people-centred data governance regimes can be achieved through many paths, including modifying existing technical architecture, conducting legal reforms or creating new legal concepts. We call for the GDC to adopt such a neutral position in developing the next stage of digital governance.",
+            "name": "text",
+            "type": "paragraph",
+            "prov": [
+                {
+                    "bbox": [
+                        71.9213638305664,
+                        486.3884582519531,
+                        530.6939086914062,
+                        563.31494140625
+                    ],
+                    "page": 7,
+                    "span": [
+                        0,
+                        345
+                    ]
+                }
+            ]
+        }
+    ],
+    "page-dimensions": [
+        {
+            "height": 842,
+            "page": 1,
+            "width": 596
+        },
+        {
+            "height": 842,
+            "page": 2,
+            "width": 596
+        },
+        {
+            "height": 842,
+            "page": 3,
+            "width": 596
+        },
+        {
+            "height": 842,
+            "page": 4,
+            "width": 596
+        },
+        {
+            "height": 842,
+            "page": 5,
+            "width": 596
+        },
+        {
+            "height": 842,
+            "page": 6,
+            "width": 596
+        },
+        {
+            "height": 842,
+            "page": 7,
+            "width": 596
+        }
+    ],
+    "page-footers": [],
+    "page-headers": [],
+    "references": [],
+    "tables": [],
+    "conversion_settings": {
+        "model_pipeline": {
+            "clusters": [
+                {
+                    "type": "LayoutSegmentationModel",
+                    "name": "LayoutSegmentationModel",
+                    "version": "NA"
+                }
+            ],
+            "page": [],
+            "normalization": [],
+            "tables": [
+                {
+                    "type": "TableStructureModel",
+                    "name": "TableStructureModel",
+                    "version": "NA"
+                }
+            ]
+        }
+    },
+    "version": 2
+}

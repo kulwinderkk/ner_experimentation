@@ -1,0 +1,177 @@
+{
+    "_name": "GDC-submission_German-Youth-IGF.pdf",
+    "_type": "pdf-document",
+    "bitmaps": [],
+    "description": {
+        "logs": [
+            {
+                "agent": "CCS",
+                "type": "parsing",
+                "comment": "CCS v9.3.0 parsing of documents",
+                "date": "2024-01-01T19:29:40.652013+00:00"
+            }
+        ]
+    },
+    "equations": [],
+    "figures": [
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    0,
+                    595.20001,
+                    841.91998
+                ],
+                "min": [
+                    335.5988159179688,
+                    779.1648559570312,
+                    516.2373657226562,
+                    833.3026123046875
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.3960626125335693,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        335.5988159179688,
+                        779.1648559570312,
+                        516.2373657226562,
+                        833.3026123046875
+                    ],
+                    "page": 1,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        },
+        {
+            "bounding-box": {
+                "max": [
+                    0,
+                    0,
+                    595.20001,
+                    841.91998
+                ],
+                "min": [
+                    336.1285400390625,
+                    778.8023681640625,
+                    513.0886840820312,
+                    834.1517333984375
+                ]
+            },
+            "cells": {
+                "data": [],
+                "header": [
+                    "x0",
+                    "y0",
+                    "x1",
+                    "y1",
+                    "font",
+                    "text"
+                ]
+            },
+            "confidence": 0.2692606151103973,
+            "created_by": "high_conf_pred",
+            "prov": [
+                {
+                    "bbox": [
+                        336.1285400390625,
+                        778.8023681640625,
+                        513.0886840820312,
+                        834.1517333984375
+                    ],
+                    "page": 2,
+                    "span": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "type": "picture"
+        }
+    ],
+    "file-info": {
+        "#-pages": 2,
+        "document-hash": "bcd91dff5727ffc42112d0d89128c177648b103b1349dd49e2a25af662b08ab3",
+        "filename": "GDC-submission_German-Youth-IGF.pdf",
+        "page-hashes": [
+            {
+                "hash": "c818992de7ad60d2b7b09cb5f07dcaac202b3244f3cb325bb2c7c1a9d0572b7d",
+                "model": "model",
+                "page": 1
+            },
+            {
+                "hash": "0f7e8357b5d435ae7dd95b24197b7b65e79794b3a27aa093cef7df6ddff96a77",
+                "model": "model",
+                "page": 2
+            }
+        ],
+        "filename-prov": "00000.zip",
+        "description": {}
+    },
+    "footnotes": [],
+    "main-text": [
+        {
+            "$ref": "#/figures/0",
+            "name": "picture",
+            "type": "figure"
+        },
+        {
+            "$ref": "#/figures/1",
+            "name": "picture",
+            "type": "figure"
+        }
+    ],
+    "page-dimensions": [
+        {
+            "height": 841.91998,
+            "page": 1,
+            "width": 595.20001
+        },
+        {
+            "height": 841.91998,
+            "page": 2,
+            "width": 595.20001
+        }
+    ],
+    "page-footers": [],
+    "page-headers": [],
+    "references": [],
+    "tables": [],
+    "conversion_settings": {
+        "model_pipeline": {
+            "clusters": [
+                {
+                    "type": "LayoutSegmentationModel",
+                    "name": "LayoutSegmentationModel",
+                    "version": "NA"
+                }
+            ],
+            "page": [],
+            "normalization": [],
+            "tables": [
+                {
+                    "type": "TableStructureModel",
+                    "name": "TableStructureModel",
+                    "version": "NA"
+                }
+            ]
+        }
+    },
+    "version": 2
+}

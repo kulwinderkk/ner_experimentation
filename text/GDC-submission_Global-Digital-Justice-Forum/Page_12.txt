@@ -1,0 +1,20 @@
+
+ Submission of Inputs for the Global Digital Compact 
+ Global Digital Justice Forum
+research and deployment of AI systems in all sectors.
+3. Instances of AI use that pose grave threats to peace, security, human and ecological well-being must not be permitted at any cost.
+4. The social value of AI must accrue to the communities from whose data footprints that digital intelligence has been generated.
+Goals
+1. To institute mandatory ex-ante and ex-post assessments of risks to human rights and threats to peace and security in relation to specific uses of AI at every stage in their development.
+2. To decentralize AI innovation by breaking AI monopolies, and institute public financing mechanisms to build the technological capabilities of developing countries for democratizing AI's economic and social value.
+Actions-Multilateral System
+1. In line with the precautionary principle, accelerate the formalization of binding regulations on Lethal Autonomous Weapons Systems and institute a global ban on non-human control of nuclear weapons platform launches.
+2. Evolve binding common standards and approaches through the development of a common global architecture to guide future trajectories of AI design, development, and use.
+3. Reject digital trade rules that prevent nation-states from enforcing transparency and accountability regulation on AI services and application providers (such as the prohibition on source code transfer).
+4. Reform Intellectual Property Regimes and introduce new licensing systems similar to the creative commons regime so that community contributions are recognized in the development of generative AI. For instance, the Maori Whare Kōrero Kaitiakitanga License prescribes that derivative products created from linguistic datasets co-generated through community contributions must be available for community use and returned to the common pool.
+5. Bridge the AI divide between nations through international public financing initiatives that encourage contextu ally appropriate and accountable AI models.
+Actions-Governments
+1. Mandate compliance with algorithmic accountability and transparency regulation as a precondition for transnational AI service providers to have market access, especially in developing countries.
+2. Safeguard transparency and accountability of AI systems through AI accountability legislation. Sector-specific guidance for operationalizing rules for various AI applications and services must be issued.
+3. Promote a capabilities approach to digitalization that recognizes investments in techno-institutional infrastructure and human capabilities as the twin strategies for the AI paradigm.
+ 13

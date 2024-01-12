@@ -1,0 +1,19 @@
+
+ Submission of Inputs for the Global Digital Compact 
+ Global Digital Justice Forum
+5. Accountability for Discrimination and Misleading Content
+Problem Statement
+The private and closed content streams of mainstream platform models have destroyed the generative web of hyperlinks that is founded on a pluralistic openness. The dominant business model of platforms built on surveillance advertising deploys algorithmic personalization, amplifying and intensifying social bias and intersectional discrimination.
+Section 230 of the US' Communications Decency Act, which treats social media/ digital services platforms as neutral conduits, has become a precedent in most jurisdictions. It enables powerful corporations to evade their accountability for the proliferation of algorithmic hate and misinformation and escape public scrutiny.
+The appropriation of the Internet by state and non-state actors for propaganda has resulted in the weaponization of content, feeding authoritarian populism and destroying the social fabric.
+Principles
+1. The web we want is an open, diverse, equal Internet that promotes the freedom of expression and information, media pluralism, and a diversity of knowledges.
+2. The independence of public and private media services must be guaranteed to prevent the unjustified removal of media content by state agencies or large online platforms.
+3. The defense of platform neutrality must be limited only to Internet intermediaries who do not engage in content governance and are neutral to the content they carry (for example, Internet service providers, hosting services etc.). Social media and digital services platforms that actively engage in content moderation and curation must be held accountable for the content governance actions they perform, including through the deployment of the algorithms they own. News media aggregators and online publishers must be governed by publisher liability rules to prevent the circulation of harmful content without encroaching on media freedoms.
+4. Automated content curation and content moderation systems must be based on human rights frameworks, and subject to transparency and accountability. Users must have the right to a) contest the decisions made by such systems, b) receive explanations for how tensions or conflicts between different values were balanced (freedom of expression vs privacy and so on) and c) seek redressal in case of unfair decisions.
+Goals
+1. To shift out of a 'walled gardens' paradigm to new platform models that are open, secure, interoperable, and autonomy-enabling.
+2. To overhaul Internet intermediary liability frameworks at global and national levels so that safe harbor protection for digital services platforms is contingent on the fulfillment of human rights obligations in their algorith mic content moderation and curation systems.
+Actions-Multilateral System
+1. Evolve a binding human rights-based content governance paradigm for the transnational communications agora of the Internet that holds states and corporations to account for human rights violations.
+ 11

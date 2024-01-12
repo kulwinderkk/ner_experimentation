@@ -1,0 +1,17 @@
+
+ Submission of Inputs for the Global Digital Compact 
+ Global Digital Justice Forum
+Actions-Governments
+1. Update national privacy frameworks to align with Convention 108 of the Council of Europe, to address the risks of individual and collective harms stemming from anonymized data processing, algorithmic sorting, and ranking systems adopted in a range of digital services.
+2. Adopt the 'precautionary principle' in the development and deployment of all data public goods and AI innovations.
+3. Institute robust safeguards of necessity, proportionality, and legitimacy in welfare targeting, and prevent intrusive profiling of vulnerable populations.
+4. Apply Human Rights Online
+Problem Statement
+Cyberspace mirrors and amplifies social exclusion and discrimination based on class, race, gender, caste, and other axes. The rights of women and less powerful/ oppressed groups are under threat in the digital public sphere due to algo rithmic virality and the intensification of hate. Multistakeholder frameworks such as the Christchurch Call have proven ineffectual in addressing this.
+Social power which characterizes our hybrid existence in the digital epoch cannot be explained through an approach that considers the online analogous to the offline. While the values that underpin the human rights approach to a humane and just society are abiding, it would be simplistic to equate the rights scaffolding pre-digital life with those in the fluid social context constitutive of digital life. Further, the rights of individuals and communities who have no online presence are also violated because of data harms arising from digital intelligence held and used by state and private actors.
+The datafication of our bodies and social interactions requires an imagination of our individual and collective sovereign ty to protect both privacy rights in relation to data and democratic governance of data as the new social knowledge. The global governance gap in cross-border data flows has reinforced global inequalities, as data resources from countries of the South are cornered by a handful of Northern corporations. The human rights framework hence requires an update that is adequate to digitality through a new class of rights in relation to data and data sovereignty.
+Principles
+1. The digitally-mediated public sphere must be free from all forms of hate speech, racialization, form of social discrimination, and violence, including sexism.
+2. The international human rights framework must be updated to incorporate, as appropriate, a new class of data rights to protect political, social and economic freedoms in the space of flows.
+3. In an interdependent world, the principle of solidarity requires that all countries and peoples have a right to benefit from the gains of digitalization. The consolidation of data power in the hands of a few countries and their corporations must be addressed through new policy and legal frameworks for data equity and justice.
+ 9
